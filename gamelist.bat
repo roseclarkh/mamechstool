@@ -1,0 +1,1 @@
+mame0264b_64bit\mame.exe -listxml >gamelist.xml
