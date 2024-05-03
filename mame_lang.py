@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import re
 import subprocess
+import os
 
 class MameInfo:
     def __init__(self, version, games):
@@ -90,6 +91,7 @@ def split_title(desc_str):
 def save_lang_dic(mame_info, cn_dics, bootleg_dics):
     pattern = re.compile(r'set (\d+)', re.IGNORECASE)
     sorted_keys = sorted(bootleg_dics.keys(), key=lambda x: len(x), reverse=True)
+    not_trans = []
     # 将游戏标题逐行写入到文件中
     with open(out_dir + '/mame_cn.lst', 'w', encoding='gbk') as file:
         for game in mame_info.games:
@@ -104,6 +106,11 @@ def save_lang_dic(mame_info, cn_dics, bootleg_dics):
                 except Exception as e:
                     # 处理其他异常
                     print("发生异常：", e, title, version)
+            elif game.title_lower not in not_trans:
+                not_trans.append(game.title_lower)
+
+    with open(work_dir + '/not_trans.txt', 'w', encoding='utf-8') as file:
+        file.write("\n".join(not_trans))
     
     with open(out_dir + '/mame_cn.lst', 'r', encoding='gbk') as file:
         content = file.read()
@@ -169,8 +176,12 @@ def save_title_lang(mame_info, cn_dics):
             else:
                 file.write(f'盗版自 {version}\n')
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+os.chdir(script_dir)
+
 # 调用示例
-filename = 'gamelist.264.xml'
+filename = 'gamelist.265.xml'
 mame_info = parse_gamelist(filename)
 print(f'MAME版本号：{mame_info.version}')
 print(f'游戏数量：{len(mame_info.games)}')

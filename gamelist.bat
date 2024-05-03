@@ -1,1 +1,1 @@
-mame0264b_64bit\mame.exe -listxml >gamelist.xml
+mame0265b_64bit\mame.exe -listxml >gamelist.265.xml
