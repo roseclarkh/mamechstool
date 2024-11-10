@@ -3,6 +3,7 @@
 24 v1.40
 24 v1.44
 24 v1.50
+265-in-1 handheld game
 386i
 386-sc-hg
 80386sx-vh-com
@@ -102,6 +103,7 @@ adm-31 data display terminal
 adm 36 video display terminal
 amstar draw poker
 adventure vision
+aerolitos espaciales
 neo-geo aes
 af-tor
 addams family values
@@ -117,6 +119,7 @@ airbase 99
 mega-cd csd-g1m
 ajofrin city
 panel & variety akamaru q joushou dont-r
+aka mahjong
 akazukin
 al486v-d rev:1.1
 aleste 520ex
@@ -148,6 +151,7 @@ alto-ii
 altos ii terminal
 altos 486
 altos 5-15
+acs586
 acs8600
 am100
 am-1000
@@ -172,8 +176,10 @@ amps car phone
 ausbaufaehiger mikrocomputer mit dem u 880
 amust executive 816
 ch-386s-16/20/25g
-animal house
 animal wonders
+another world
+anpanman: let's go! ikunou drive
+anpanman tv
 antonelli 2495
 antonelli 2614
 ef315-i220 teller terminal
@@ -193,6 +199,7 @@ apricot ft//ex 486
 apricot pc
 apricot xi
 apricot fts
+automatic products vending machine model 110
 apricot vx ft server
 apricot xen
 apricot xen pc
@@ -306,6 +313,7 @@ attaché
 attaché 8:16
 attila the hun
 pc/at turbo
+au
 bam/12-s2
 autoslalom
 aussie byte ii
@@ -313,6 +321,7 @@ austin powers
 autocue 1500 teleprompter
 auto race
 vip 800
+advanced voice chess challenger
 avenger
 ti avigo 10 pda
 aviion 4600
@@ -330,9 +339,14 @@ ax-350 ii
 ax-350 ii f
 ax-370
 ax-500
+vending machine model t12
+vending machine model t6
+vending machine model t61
+vending machine model t8
 b128
 b128-80hp
 b16
+b16 ex-ii
 b256
 b256-80hp
 bashkiria-2m
@@ -358,7 +372,8 @@ babbage-2nd
 ball challenge
 ball pom line
 vip-m21502a bam16-a0
-dribble away basketball
+let's! tv play keroro shoutai dai panic! dotabata daikessen de arimasu
+let's! tv play touin ougi onmyou taisenki: mezase saikyou toushinshi
 let's! tv play one piece punch battle
 bank shot: electronic pool
 bao qing tian
@@ -367,6 +382,7 @@ mcs basic 31
 mcs basic 52
 basis 108
 bassstation rack analogue synthesizer module
+battle gear 3
 interactive m.a.g. motion activated gear: the batman - villains of gotham city
 bay-1000c v1.01
 bazooka
@@ -402,7 +418,6 @@ bingo bear
 portable game player bbl-338
 bbl380 - 180 in 1
 baby & bombo
-beast busters: second nightmare
 system control car: cheetah
 bcs 3 rev 2.4
 bcs 3 rev 3.1 29-column
@@ -436,11 +451,13 @@ beta
 beta force
 baby formula 2
 barmy army
+dancing bells
 ding dong bells
 max a million
 1945 er dai / 1945 part-2
 leishen chuan / thunder deity biography
 gunfighter
+sound saurus bh-1000
 bi-025c ht-12 286
 biathlon
 binbug 3.6
@@ -449,6 +466,7 @@ bingo roll
 bingo roll 2001
 bingo planet
 biplane
+bistro kids: boku mo watashi mo kok-san!
 bit90
 bitgraph rev a
 bitgraph rev b
@@ -459,6 +477,7 @@ bk 0010 fdd
 bk 0011m
 bk-08
 bk-8t
+karaoke station
 beyond kung-fu
 blast it
 blicks
@@ -468,11 +487,10 @@ g.t. block challenger
 colani blue note
 beatmania iii
 football classic
-basic master jr
-mb-6890 basic master level 3
-mb-6891 basic master level 3 mark 2
-mb-6892 basic master level 3 mark 5
-blue moon ii
+basic master jr.
+basic master level 3
+basic master level 3 mark ii
+basic master level 3 mark 5
 kick the goal soccer
 bmx
 bmx stunts
@@ -484,10 +502,13 @@ bolsa internacional
 bombman
 bone busters inc.
 bonk's adventure
+boo 1000
+boo boo donpatchi
 olympia boss a 8085
 olympia boss b 8085
 bow & arrow
 bowling gum
+bowl-o-rama
 bowmen
 bp-1200
 brandt 8641
@@ -513,9 +534,8 @@ battlefront
 bt merlin m2105
 beat player 2000
 bubblen roulette
-bu bu car
+bullion 2
 burger kids
-buriki one: world grapple tournament '99 in tokyo
 busicom 141-pf
 trinitron color video monitor bvm-20f1e
 bondwell 12
@@ -560,7 +580,6 @@ c-80
 c8002
 commodore 900
 810
-mahjong cafe doll great
 cambridge programmable
 candela can09 v1
 candela can09
@@ -576,17 +595,20 @@ v-25
 v-30f
 v-8
 caramball
+car beena
 caribbean boule
 cardinal video terminal
 caribe
 fm-towns car marty
 cashcade
+cashline
 cast away
 fortune pot
 revolution
 cat
 cavaleiro negro
 cb-308
+cherry bonus v five
 cbm 3008
 cbm 3016
 cbm 3032
@@ -641,6 +663,7 @@ china education computer i
 china education computer m
 magnet system
 centurion
+kasparov centurion
 constellation expert
 cf-1200
 cf-2000
@@ -657,6 +680,10 @@ ch-486-33c
 ch-491e
 486sle m106 4sle-z1
 4spi
+challenge gear
+countertop champion 2
+mayo no 21
+999
 channel f
 channel f ii
 chaos 2
@@ -670,28 +697,40 @@ cherry wheel
 chexx
 chic gum video
 chilli con cash
+chloe 280se
 chessmate
 champion pool
 333sc
 cip-01
 cip-03
 blackjack
+chaoji dou dizhu
+chaoji dou dizhu liang fu pai
+chaoji dou dizhu jiaqiang ban
 new! cherry plus
+cai jin shen long
+chaoji tuolaji jiaqiang ban
 ckz-80
 cl286-12/16s
+color lcd classic game 200-in-1
+the classic
 clipper
 cuty line limited
 color match
 colex vme-80186
 m-1200
 cm-1800
+cherry master 2005
+sound canvas cm-300
 cm-32l
 cm-32p
+cheri mondo '97
 cmi iix
 286 motherboard
 compuchess
 compuchess: the second edition
 cms 6502 development system
+tetris + global money fever
 nebula
 code name: sector
 contact
@@ -699,7 +738,7 @@ counterforce
 continental 3 in 1
 continental
 cobra 80k
-cobra sport dart
+cobra sport dart / tour sport dart
 color computer 1/2
 codata
 acclaim psx
@@ -719,7 +758,7 @@ cal omega - game 21.4
 cei 60.04
 comp iv
 chess companion ii
-companion iii
+kasparov companion iii
 kompanion 1
 computerized arcade
 pc-1
@@ -754,6 +793,7 @@ cortex
 cosmicos
 computer othello
 creatures of the sea
+kasparov cougar
 covidarts
 cowboy eight ball
 cowboy eight ball 2
@@ -786,14 +826,16 @@ crazy mazey
 crei 680
 croaky karaoke 16-in-1
 cross magic mark 2
+croupier ii
 creativision mk-ii
 creativision
-crazy bugs
+robot training arm cs-113
 sl 286-16
 casino strip vivid 1
 cosmoswat
 neat 386sx
 pc/at 486 with cs4031 chipset
+ct-65
 c386mx
 cut the cheese deluxe
 ctk-2100
@@ -802,9 +844,11 @@ ctk-551
 ctk-601
 the tower
 compact vision tv boy
+cubieboard4
 cubo bios
 la cucaracha
 cue
+cut the rope
 practice-z80
 catherine wheel
 cx 3000 tele computer
@@ -840,6 +884,7 @@ dancing expert
 tv dance mat 4 games in 1
 dangerous bar
 dardos
+dash4 debug adapter
 minna ganbare! dash hero
 voltmace database
 datacast controller
@@ -848,16 +893,19 @@ dator 3000
 datum
 dauphin
 dawg gone fun
-daytona usa 2: power edition
-daytona usa 2: battle on the edge
 db32016
-d-box 1, kirsch gruppe
+double hearts
+d-box 1
+bridge computer
+dragon ball z x one piece: battle taikan gum-gum no kamehameha: omee no koe de ora o yobu
+dragon ball z: scouter battle taikan kamehameha: ora to omee to scouter
 dragon ball z: v.r. v.s.
 d-cat16
 rs-232 dce-dce bridge
 dct11-em
 dd-9 digital percussion
 doraemon no dokodemo door
+16-bit tv dance pad with 15 songs / dance dance party mix
 dance dance revolution karaoke mix
 dance dance revolution karaoke mix 2
 ddrmax - dance dance revolution 6th mix
@@ -890,9 +938,12 @@ my arcade data east classics - pixel classic
 my arcade data east classics - pixel player
 diablo hytype ii series 1300 cpu
 dialogue 80
+diamond
+diamond ii
 diamond king
 diamond lady
 dice - the dice game!
+dice master
 didaktik m 91
 didaktik m 92
 didaktik m 93
@@ -915,11 +966,14 @@ arbiter discmate a-02
 arbiter discmonitor a-01
 dj girl
 donkey kong jungle fever
+disney classic handheld karaoke player
+disney princess handheld karaoke player
 dm3270 control unit display station
 dreambox 500
 dreambox 5620
 dreambox 7000
 datamax 8000
+diamond heart
 dms-5000
 dms-86
 decision mate v
@@ -935,6 +989,7 @@ dogstation deluxe
 doodle jump arcade
 dora the explorer - dora tv globe-trotter
 dora the explorer - dora tv explorer phone / l'anniversaire de babouche
+double 8 line
 sudoku: do you sudoku?
 desert patrol
 dpb-7000
@@ -951,8 +1006,8 @@ dream rail
 dream rail lovely
 drakor
 dr. dunk
-chuugokuryuu
 drum station
+drum super star
 dreamwriter t100
 dreamwriter t200
 dreamwriter t400
@@ -975,7 +1030,9 @@ dt486
 dtc
 dectalk dtc-03
 pc-xt-clones with dtk/erso-bios
+deluxe trivia ? whiz edition 5
 dual systems 68000
+duel masters: duel station
 duet-16
 dump the ump
 dunk 'n sunk
@@ -993,6 +1050,7 @@ dx7 digital programmable algorithm synthesizer
 dx9 digital programmable algorithm synthesizer
 deluxe football with instant replay
 air hockey
+dynasty
 dynamidesk
 esselte 100
 eagle 1600
@@ -1078,6 +1136,7 @@ el circulo
 electronic bowling
 electronic detective
 electronic i.q.
+electronic trio
 elektor sc/mp
 elektor tv games computer
 elektra
@@ -1093,6 +1152,7 @@ elzet/k 80
 elzet/p 80
 emate 300
 embryon
+emerald classic plus
 mirage
 e-touch mahjong series #2: joshiryou de ne!
 e-touch mahjong series #6: scandal blue - midara na daishou
@@ -1100,6 +1160,7 @@ e-touch mahjong series #7: trap zone - yokubou no kaisoku densha
 emma ii trainer
 mirage dms-8
 enterprise "s"
+eos b900
 enterprise one two eight
 ep804 eprom programmer
 twenty one club
@@ -1258,20 +1319,44 @@ utter nutter
 viper jive
 ericsson pc
 epic 14e
-excite tennis
+croket! itada kinka! banker battle!!
+dai mono tsurouze! excite fishing dx
+takkyuu yarouze! excite ping pong
+takkyuu yarouze! excite ping pong 2
+ai-chan ni chousen! excite ping pong
+shamoji de ping pong
+card scan! excite stage soccer nippon daihyou team
+shoubu shiyouze! excite stadium dx
+hanshin tigers excite stadium dx
+black bass tsurouze! excite fishing
+super shot! excite golf
+tottoko hamtaro - ham ham dai circus!
+ham-chans dai shuugou dance surunoda! hashirunoda!
+mini-moni party! rhythm de pyon!
+tv mahjong shoudan taikyoku - 4-nin uchi
+mini-moni stage! dance dapyon!
+mini-moni stage! dance dapyon! plus
+all-star kansha-sai chou gouka! quiz kettieban: akasaka 5-choume taikan studio
+home run datouze! excite stadium
+goal kimeruze! excite striker
+ace kimeruze! excite tennis
 tokyo friend park 2
+tokyo friend park ii perfect! mezase! grand slam!!
+tokyo friend park ii special!
 ericsson portable pc
 eps
 eps-16 plus
 pc ax
 pc ax2e
 pc ax3
+tv globe
 ergo 201
 erik
 es-210
 escape
 escape from the lost world
 exciting speed hockey
+250c
 esprit
 esprit iii
 esq-1 digital wave synthesizer
@@ -1317,7 +1402,6 @@ expert ddplus
 expert ddx+
 expert plus
 ncd explora pro xq
-extra draw
 ez2dancer 2nd move
 ez touch
 apricot f1
@@ -1326,7 +1410,6 @@ f-14 tomcat
 apricot f1e
 apricot f2
 f387x pep system
-3 in 1: football, basketball, soccer
 4431
 f4dxl-uc4
 face-off
@@ -1347,7 +1430,6 @@ family fun!
 fantastic car
 system 15
 system p model g
-fatal fury: wild ambition / garou densetsu: wild ambition
 fb-01 fm sound generator
 fireball ii
 fireball classic
@@ -1364,7 +1446,7 @@ elite avant garde 2325
 elite avant garde 2265
 multitel fe ap 90-1.1
 fellow
-fengyun hui
+fever 13
 fever chance
 excel 68000
 excel 68000 mach ii
@@ -1394,6 +1476,7 @@ fire action
 fire action deluxe
 fireball
 hot fire birds
+fisherman battle
 fixeight - jigoku no eiyuu densetsu
 fix it felix jr.
 fk-1
@@ -1423,6 +1506,7 @@ fool race
 fortune king
 4x4
 apricot portable / fp
+fp-1000
 fp-1100
 fp-200
 fp-6000
@@ -1507,6 +1591,7 @@ galaxy games bios
 galileo factory
 gals panic ex
 gamate
+gambit voice
 game boy
 game.com
 game fighter
@@ -1514,9 +1599,11 @@ gameking 3
 gameking gm-218
 the game machine
 game pocket computer
+play portable color gameu+
 game zone ii 128-in-1
 gammonmaster ii
 gamble poker
+ganbare momotarou oni taiji
 game boy advance
 game boy color
 game boy pocket
@@ -1528,7 +1615,7 @@ mini game player 48-in-1
 gachinko shoubu! pachislotv
 gran derby
 gegege no kitaro yokai yokocho matsuri de battle ja
-mahjong gekisha part ii
+geki makaimura
 genesis nomad
 geneve 9640
 geneve 9640 mod
@@ -1557,6 +1644,7 @@ genius junior redstar
 genius junior redstar 2
 genius junior redstar 3
 kasparov gk 2000
+kasparov gk 2100
 genius leader 2000
 genius leader 2000 compact
 genius leader 2000 plus
@@ -1604,6 +1692,7 @@ go & stop
 gp2x
 gp32
 model 110
+sphinx granada
 le grand 8
 gravity
 futuredata 2301 network processor
@@ -1626,6 +1715,8 @@ gti club: rally cote d'azur
 driving party: racing in italy
 gumball rally
 gun gun adventure
+gun gun revolution
+hayauchi gun kids
 gun shot
 global vr xp os update/install - 06/11/02
 global vr xp os install - 09/30/01
@@ -1633,13 +1724,15 @@ amstrad gx4000
 gz-70sp
 h-01b
 h-01 jce
-heathkit h-19
+h-19 terminal
 video computer h-21
 heathkit h8 digital computer
-heathkit h88
-heathkit h89
-heathkit h89 with sigmasoft igc
+h-88
+h-89
+h-89 with mms equipment
+h-89 with sigmasoft igc
 hamburger house
+hamburger house 9
 hammer champ
 hana awase 6 part ii
 happy farm
@@ -1708,6 +1801,7 @@ hc-88
 hc-90
 hc-91
 half court computer basketball
+hill climber
 hds200
 286 motherboards with headland g2 chipset
 hector 2hr
@@ -1755,7 +1849,6 @@ hb-8000 hotbit 2.0
 hot body i
 hot body ii
 hot chilli
-mahjong hourouki part 1 - seishun hen
 house ball
 house of cards
 hp 16500b
@@ -1787,12 +1880,16 @@ hp 86b opt 004
 hp 95lx
 integral personal computer 9808a
 hp 9816
+hp 9816a
 hp 9825a
 hp 9825b
 hp 9825t
+hp 9826a
 hp 9831a
 9835a
 9835b
+hp 9836a
+hp 9836c
 9845a
 9845b
 9845c
@@ -1837,6 +1934,7 @@ husky hunter 2
 husky hunter 2/16
 husky
 the hardware chiptune project
+halloween party
 hx-10aa
 hx-10d
 hx-10dp
@@ -1892,6 +1990,7 @@ ibm pc jx
 tpci
 bozo's pail toss
 icebox
+icescape
 drs m40
 icm-3216
 ics8080
@@ -1919,6 +2018,7 @@ iris indigo
 indigo2
 iris indigo r4000
 iris indigo r4400
+unknown gambling game on inder pinball hardware
 ingelen tele-match processor
 innotab 2
 innotv
@@ -1951,6 +2051,7 @@ ipb
 ipc
 ipds
 iphone
+hard puncher hajime no ippo 2 - the fighting! - ouja e no chousen
 genius iq 128
 iq-151
 iq-501
@@ -2083,8 +2184,6 @@ western
 wild reel bingo
 triple x
 club nudger
-daytona classic
-daytona
 dirty dozen
 fairground
 fairground attraction club
@@ -2152,8 +2251,6 @@ cash buster
 cash countdown
 cash raider
 cash vegas strip
-daytona gold
-daytona millennium
 diamond geezer
 demon jokers
 dr dough
@@ -2282,6 +2379,7 @@ jack & the beanstalk
 jack house
 jackpot bowling
 jack use
+jack's venture - inca treasure
 unknown s-100 computer with serial/parallel/interrupt controller
 jaguar
 jaguar cd
@@ -2289,11 +2387,13 @@ hannah montana pop tour - guitar video game
 power rangers super megaforce hero portal
 km-s4-1 ver 1.1
 jaminator
+jyarajyaland
 jb-3000
 jester chance
 jet
 jeu intéractif tv
-jingling jiazu genie 2000
+jin hu lu 2
+joker master 2000 special edition
 jolly game
 mahjong block jongbou 2
 escort
@@ -2314,6 +2414,8 @@ nest 8086 and v30
 nest 8088 and v20
 juku e5101
 jumanji
+jumbo godzilla
+jungle's animals
 jungle
 junior computer
 junior 80
@@ -2324,7 +2426,6 @@ jv-880 multi timbral synthesizer module
 hc-7e / hc-7gb
 j-403tg
 j-446a
-jinxiu zhonghua
 junk yard
 k1003
 k2000
@@ -2334,6 +2435,7 @@ k8915
 kajot card
 masked riders club battle race / kamen rider club battle racer
 karaokemicro star
+karaoke microphone pro / karaokemicro star
 karaoketv star
 kay 1024
 kaypro 1
@@ -2351,6 +2453,7 @@ kaypro iv - 4/83
 kaypro new 2
 pc
 badlands
+kasparov blitz
 kyotronic 85
 kc 85/1.11
 hc900 / kc 85/2
@@ -2366,18 +2469,22 @@ keroro gunsou: pekopon shinryaku shirei...de arimasu!
 kick & kick
 kidizoom
 kidizoom connect
+kidi superstar lightshow
 kick start: wheelie king
 kim-1
+kiss-site
 circlun - kuru.kuru-count
 the lone ranger
 kma-202f-12r
 kma-300g-25
 kmc-5000
 kyber minus
+sx-kn5000
 bill elliott's nascar racing
 codename: kids next door - operation: p.l.u.g.g.u.h.s.
 knights in armor
 koi koi shimasho - super real hanafuda
+kong ball
 konin
 kono e tako
 kontiki 100
@@ -2385,7 +2492,6 @@ pk8020 kontur
 pk8020 korvet
 kosmicheskiy most
 kosmicheskiy polyot
-sanguo qunying zhuan zhengzong plus
 konami python 2 bios
 kr-03
 kramer mc
@@ -2396,18 +2502,11 @@ kron k-180
 oc jeu video tv karvan
 ks-32
 skate or die
-star trek: 25th anniversary
 kt216wb5-hi rev.2
 kt-76
 ktm-3
-teenage mutant ninja turtles ii: splinter speaks
-teenage mutant ninja turtles 3: shredder's last stand
-teenage mutant ninja turtles: basketball
-top gun: second mission
 kiteyo parman
 qtc-sxm kt x20t02/hi rev.3
-kung fu fighters
-kung-fu senjyo
 kvaka-zadavaka
 xt
 kz-26
@@ -2425,7 +2524,6 @@ laser 3000
 laser //c
 laseractive with genesis pack pac-s10
 laseractive with mega drive pack pac-s1
-last bronx: tokyo bangaichi
 lazer lord
 little board/186
 little board/pc
@@ -2459,10 +2557,17 @@ lexibook junior my 1st drawing studio
 lexipc mega 2000
 tv sports plug & play 5-in-1
 zeus ig900 20-in-1
+long hu da manguan
+long hu da manguan duizhan jiaqiang ban
+long hu zhengba
+long hu zhengba iii shengji ban
+long hu zhengba 4 dui hua ban
+librie ebr 1000
 electronic lightfight: the games of dueling lights
 lik
 my little computer
 lilith
+link
 3500
 lisa
 lisa2
@@ -2476,6 +2581,7 @@ llc-2
 lm-103s
 lms46-v9
 lansay 1392
+linux/4004
 lnw-80
 multicom 715l
 multitel d
@@ -2486,11 +2592,13 @@ lost treasure: the electronic deep-sea diving game
 lost treasure
 ls-486e rev:c
 ucm-486v30
+little casino ii
+long teng hu yao duizhan jiaqiang ban
 little touch leappad
 ltm portable
 let's tv play naruto
 let's! tv play chou ninki spot! korogashi-houdai tamagotchi resort
-lucky coin
+lucky v line
 luna 88k
 luna 88k²
 lunelle
@@ -3389,12 +3497,15 @@ match up
 top poker
 multi-action 6710-13
 multi-action 6710-21
+multi-action 6711-14-r0a
 multi-action 7551-21-r2p
 multi-action 7551-20-r3t
 multi-action 7556-00-r2
 multi-action 7558-01-r0
+multi-action 7558-01-r4
+multi-action 8340-01-r1
 multi-action 8350-00-r1
-unknown game
+multi-action 9800-20-r0
 machinazois virtual training center
 macintosh centris 610
 macintosh centris 650
@@ -3413,20 +3524,30 @@ macintosh quadra 610
 macintosh quadra 630
 macintosh quadra 650
 macintosh quadra 800
+macintosh quadra 900
+macintosh quadra 950
 multi amenity cassette system bios
 macintosh tv
+mad ball
+mad money 2
 magitronic b233
 magitronic b236
 magic 6
 magical poppins
 magic card iii jackpot
+magical jack
+magical jack plus
+magical kengo
 magnum
 magic slot
-mahjong raijinhai
+mini arcade handheld game console 2.8 inch screen built in 156 retro games
+mallet madness
 manager
 mandinka
 mann, oh-mann
 manx tt superbike - dx
+map-1010
+la máquina del tiempo
 marble madness ii
 marimba tengoku
 super mario fushigi no janjanland
@@ -3477,6 +3598,7 @@ mb-h3
 mb-h50
 mb-h70
 mike bossy
+mb-s1
 mc-10
 mc-1000
 mc-1200
@@ -3492,6 +3614,7 @@ mc-80.30/31
 coolboy rs-17 - 203 in 1
 mcb-216
 mc-cp/m-computer
+mcg-85
 mcm/70
 minicom iv
 computer gin
@@ -3503,9 +3626,13 @@ mikrodator 6802
 m-disk comp.-a
 dungeons & dragons: computer labyrinth game
 midnight marauders
+mega drive play tv 1
+mega drive play tv 2
+mega drive play tv 3
 medal no tatsujin doki! ooatari-darake no sugoroku matsuri
 medal no tatsujin 2 atsumare! go! go! sugoroku sentai don ranger five
 medusa
+mega 10.000: l'encyclopédie électronique
 meg-aaton
 mega-cd
 mega-cd 2
@@ -3535,11 +3662,12 @@ meritum i
 merlin: the electronic wizard
 mes
 metabee shot
+68000 educational computer board
 football 2
 mg-1
-man guan caishen 3
-medal get hammer
-man guan zhi zun
+manguan caishen 2
+manguan caishen 3
+manguan zhizun
 mice-ii 6502
 mice-ii 6809
 mice-ii 8085
@@ -3550,6 +3678,7 @@ micral 80-22g
 micral 45
 micro 20
 micro 8088
+microbox ii
 micro engenho
 cosmac microkit
 micromon 7141 ecg unit
@@ -3579,14 +3708,14 @@ minitel 2
 minna de kitaeru zenno training
 invasion from space
 mis primeras lecciones
+miracle seven - heaven's gate
 miracle derby
 missile attack / space alert
 misterx
 mistrum
 miuchiz virtual companions
-sega network taisen mahjong mj 3 firmware update
-mahjong the mysterious orient returns
-mahjong reach part ii
+sega yonin uchi mahjong mj network taisen ver.
+kasparov mk 12
 mk-14
 mk-14 vdu
 mark 1 forth computer
@@ -3599,6 +3728,7 @@ mk-98
 microkit09
 kp-286
 mks-100 digital sampler
+star singer karaoke
 micrologic 20
 ml-8000
 ml-f110
@@ -3612,8 +3742,13 @@ ml-g3
 ml-g30 model 1
 ml-g30 model 2
 multi points
+mikromikko 1 m4
+mikromikko 1 m4g
 mikromikko 1 m6
+mikromikko 1 m6g
 mikromikko 1 m7
+mikromikko 1 m7g
+mikromikko 2 m35d
 medieval madness
 micom mahjong
 chibi maruko-chan ~minna de sugoroku asobi~ no maki
@@ -3627,6 +3762,7 @@ mogu mogu hammer
 lucky dip
 magnum r4000
 mmt-8
+medal network: rockman exe
 mo5
 mo5e
 mo5 nr
@@ -3641,6 +3777,7 @@ kp920121523 v2.20
 kp 386sx v2.21
 molecular computer
 m3 v3.0
+monkey jump
 monkey land
 monkgomery monkey
 monomachine sfx6 mk2
@@ -3679,13 +3816,14 @@ mpc-64
 masterpiece 800 series
 masterpiece 900 series
 masterpiece 900gx series
-micro professor 1
+micro-professor 1
 micro-professor i/88
-micro professor 1b
-micro professor 1 plus
+micro-professor 1b
+micro-professor 1 plus
 microprofessor iii
 mps-1000 printer
 mps-1230 nlq printer
+mps-65
 victory mpt-02 home tv programmer
 mpt-02 jeu tv programmable
 mpt-05
@@ -3699,6 +3837,7 @@ let's! tv play mahou taiketsu magiranger - magimat de dance & battle
 mr. mus-i-cal
 mr-rack
 ms 0515
+multistar 14
 micro-sep 1600
 ms-4125
 ms-4132 g ver:1
@@ -3706,7 +3845,9 @@ ms-4134
 ms-4138
 ms-4144
 ms-4145
+multistar 5
 ms 6102.02
+ms68k
 ms9540
 msbc-1
 wwe wrestlemania steel cage challenge
@@ -3716,6 +3857,7 @@ miss packman plus
 mr pac-turbo
 super ms. pac-man
 mailstation
+superstar
 mt-32
 micro-term 420
 micro-term 440
@@ -3723,6 +3865,8 @@ microterm 5510
 microtan 65
 microtan 6809 system
 mt735
+mt 80s music player
+mt-80z
 9016 telespiel computer
 megatouch xl super 5000
 megatouch xl 6000
@@ -3735,23 +3879,25 @@ mtx 500
 mtx 512
 mu10
 mu100
+mu1000
 mu100 screenless version
 mu100 rackable version
 mu128
 mu15
+mu2000
 mu-5
 mu50
+mu500
 mu80
 mu90
+mu90b
 multi-mega
 multy
 mundial 90
 post-mupid c2a2
 c2a2
 muscle master
-mushiking the king of beetles 2006 first
 mutacion
-heroes
 crossword quiz
 mini-vid: break free
 mvme-162
@@ -3761,11 +3907,15 @@ mx-10
 mx-101
 mx-15
 memorex 2178
+maxserver mx-3210 local router
 mx64
+mingxing san que yi
 my arcade caveman ninja
 mybrain 3000
 mycomz-80a
 mysterian
+mystic jaguar
+mystery j & b
 my vision
 mz-1
 mz-1500
@@ -3805,8 +3955,6 @@ nba v8.01
 nba v8.02
 nba all the way
 nba fastbreak
-sportstation: nba showtime nba on nbc gold edition
-nba jam tournament edition
 nba mac
 nc100
 nc150
@@ -3827,6 +3975,7 @@ pc-8
 nd-80z
 new draw 8 lines
 new dongmuldongmul
+new dongmuldongmul 2
 ds
 neat
 apc iv
@@ -3927,6 +4076,7 @@ vip
 nws-1580
 nws-3260
 nws-3410
+nws-3720
 nws-3860
 net work station nws-5000x
 the new york times sudoku
@@ -3958,9 +4108,6 @@ okeah-240
 ocean-240 with fdd
 ocean-240 test rom
 okhota
-oriental legend super / xiyou shi e zhuan super
-oriental legend special / xiyou shi e zhuan super
-xiyou shi e zhuan super
 oli bug
 m203 motherboard
 m15
@@ -3983,6 +4130,7 @@ othello multivision fg-1000
 othello multivision fg-2000
 ondra
 ondra vili
+onliner touch party
 onyx
 opti 386wb ver.1.0
 open 5 cards
@@ -4000,8 +4148,6 @@ orion 128 + z80 card ii + ide
 orion pro
 orion 128 + z80 card ii
 orizon-micro
-xiyou shi e zhuan 2
-oriental legend / xiyou shi e zhuan
 rabbit printer
 executive
 osborne-1
@@ -4032,6 +4178,7 @@ palm vx
 palm z22
 panther darts
 panikuru panekuru
+pap2
 palace arcade
 parodius da!: shinwa kara owarai e
 partner-01.01
@@ -4176,11 +4323,16 @@ pc-fx
 pc-fx/ga
 pc-g815
 pc-g850v
+pocket checkers
+kasparov pocket chess
 pci48af
 sandbox pci/agp pc
 sandbox pci pc
 pck 486 dx
+pocket surfer
+print club yoshimoto v1
 pc/m
+classic max pocket pcmx11 - 12 in 1 colour games console
 pc-mx2
 precomputer elektronik
 player's choice ram clear
@@ -4209,6 +4361,7 @@ pem 2539
 montana choice
 penalty
 pencil ii
+penguin party
 pentagon 1024sl
 pentagon 128k
 zx evolution: baseconf
@@ -4229,6 +4382,7 @@ pet 4032
 pet 4032b
 pet 64 / cbm 4064
 pet 8032
+pocket game 118-in-1 / game computer 118-in-1
 simatic pg675
 simatic pg685 oua11
 simatic pg685 oua12
@@ -4236,6 +4390,7 @@ pg 750
 pg-750 486 eisa
 phantom haus
 phc-2
+phc-20
 phc-23 / wavy23
 phc-23jb / wavy23
 phc-25
@@ -4279,8 +4434,10 @@ pippin @mark
 pitagorin junior
 pitagorin
 pixter multi-media
+pk-32
 pk-6128c
 pk8002 elf
+pk - new exciting poker!
 pkm-0038s aka gemlight gmb-486sg
 poker spirit
 kung fu pounda
@@ -4303,11 +4460,15 @@ pmd-85.2a
 pmd-85.2b
 pmd-85.3
 pmi-80
+pocket micro de-luxe
 pn-8800fxb
 paint 'n puzzle
 pocket challenge w
+pocket challenge v2
 pocket book
 pocket book ii
+pocket monsters pc
+pocket monsters rotom tablet
 sony pocketstation
 nekketsu pawapuro champ
 soukai golf champ
@@ -4318,6 +4479,7 @@ portfolio
 poisk-1
 poisk-2
 pokemon mini
+poker & 21
 poker 52
 good luck! poker
 poker's wild
@@ -4349,6 +4511,7 @@ pp-01
 pool player
 amstrad ppc512
 amstrad ppc640
+kasparov pocket plus
 ppm-3333p
 pr-100 digital sequencer
 5x cash
@@ -4400,10 +4563,12 @@ theme park
 up & under
 wild kings
 winning streak
+boku wa plarail untenshi shinkansen de ikou! plus
 pravetz 82
 pravetz 8c
 pravetz 8d
 pravetz 8m
+print club 2 vol. 8 '97 summer
 elite premiere
 precomputer prestige elite
 primo a-32
@@ -4414,8 +4579,9 @@ primo b-48
 primo b-64
 primo c-64
 primus expert mit stimme
-prin-c
+prin-c tablet
 cosmic princess
+prin-c
 kasparov prisma
 prodest pc 128
 prodest pc 128s
@@ -4499,7 +4665,6 @@ ptc-100
 mb457
 pub time darts ii plus 2 with solo challenger
 pucki & monsters
-puckman pockimon genie 2000
 pull the trigger
 tv pump active
 pump it up: the 1st dance floor
@@ -4534,16 +4699,17 @@ q5 500 in 1 handheld
 qing cheng zhi lian
 qd-u386dx ver 1.0
 quickfire
-que huang zheng ba
 apricot qi 600
 apricot qi 900
 quizkid speller
 ql
+que long gaoshou
 quiz aa! megami-sama ~tatakau tsubasa to tomoni~
 quasimidi quasar
 rave-o-lution 309
 quasimidi sirius
 quick & crash
+qs300
 sbc + 2/4
 questar/m
 quingo export
@@ -4573,11 +4739,13 @@ racing challenge - 8 games in 1
 race time
 racing jam: chapter ii
 play tv jr. construction
+radical enduro
 radio-86rk
 radio-99dm
 radionic r1001/komtek 1
 rally point 2
 rameses hvc6502
+unknown ram star multi-game
 ra's scepter
 ravensburger selbstbaucomputer v0.9
 ravensburger selbstbaucomputer v2.0
@@ -4600,10 +4768,12 @@ rc702 piccolo
 rc759 piccoline
 rollercoaster tycoon
 rd100
+rd-500 digital piano
 reader's digest q&a: computer question & answer game
 recel bios
 red baron - jackpot carnival
 red bird
+regency
 reikai doushi - chinese exorcist
 renda fighter
 renju kizoku - kira kira gomoku narabe
@@ -4612,22 +4782,25 @@ reuters apm
 rex 6000
 royal flush deluxe
 pinball 2000: revenge from mars
+santa fe mine
 ribbit racin
 rider's surf
+ring & ball
 ringo r-470
 ripley's believe it or not!
 royal king jang oh 2
 razvedchiki kosmosa
 roland music style card tn-sc1 software list holder
 roland music style card tn-sc2 software list holder
-rm-380z, cos 4.0b
-rm-380z, cos 3.4d
-rm-380z, cos 3.4e
-rm-380z, cos 4.0b with hrg
+rm-380z, cos 4.0b/m
+rm-380z, cos 3.4d/f
+rm-380z, cos 3.4e/m
+rm-380z, cos 4.0b/f
+rm-380z, cos 4.0b/f with hrg
+rm-380z, cos 4.0b/m with hrg
 link rm-480z
 rally montecarlo
 round and round
-roads edge / round trip rv
 road star
 kaypro robie
 chess robot adversary
@@ -4688,18 +4861,20 @@ saga fox/f80
 sage ii
 sagitta 180
 sala due
+salary man champ - tatakau salary man
 sam coupé
 deskmaster 286-12
 sammy medal game system bios
-samurai shodown 64 / samurai spirits / paewang jeonseol 64
-paewang jeonseol / legend of a warrior
 sansa fuze 2
 sanma - san-nin uchi mahjong
 unknown san remo / elsy multigame
+santa claus
 santaka-002
 sapi-1 zps 1
 sapi-1 zps 2
 sapi-1 zps 3
+sapphire
+sapphire ii
 super arcade 101-in-1
 80286 standard system
 strongarm risc pc
@@ -4714,6 +4889,7 @@ sb180
 superboard ii model 600
 sb-486
 space byte 8085
+sensory backgammon computer
 super bass station
 sbc6510
 sonic blast man
@@ -4723,6 +4899,7 @@ sc105 - modular backplane
 sc112 - modular backplane
 sc116 - modular backplane
 sc133 - modular backplane
+sound canvas sc-155
 active 8
 barcode
 bar trek
@@ -4795,7 +4972,6 @@ spitfire
 sterling
 strike 4
 super flush
-superstar
 top 1000
 tiara
 tri star
@@ -5332,6 +5508,7 @@ deal or no deal easy money
 soundcanvas sc-88vl
 386sx motherboards using the scampsx chipset
 mephisto schachakademie
+super cherry master plus
 scientus
 standard change-makers system 500 / 500e
 score 5
@@ -5340,8 +5517,8 @@ scorpio 68000
 scorpion gmx
 scorpion zs-256 turbo+
 scp-300f
-sphinx chess professor
 sensor computachess
+sphinx chess professor
 scrabble lexor: computer word game
 scrabble sensor: electronic word game
 scratch!! scratch!!
@@ -5354,6 +5531,8 @@ mcs-51 system design kit
 sdk-80
 mcs-85 system design kit
 mcs-86 system design kit
+chaoji da manguan ii
+maque wangchao / chaoji da manguan 2 - jiaqiang ban
 sea devil
 seal 30-in-1
 seawitch
@@ -5374,6 +5553,7 @@ sg-1000 ii
 mark iii
 sphinx galaxy
 sexy gal tropical
+super galactic wars
 nascar arcade
 supergrafx
 386sx rev 2.0a
@@ -5381,13 +5561,13 @@ shrek v1.41
 ld mahjong #4 shabon-dama
 shamisen brothers vol 1
 yataimura shateki
-pili shen deng
 alone shettle crew
 shine/1
 m1200 micro computer
 shock
 shippe champion
 shooting zone system bios
+shun
 ms11 pc
 sicomp pc16-05
 dance dance revolution - broadwalk arcade
@@ -5413,6 +5593,8 @@ slicer
 slick shot
 slime kun
 slot no oujisama / slot prince
+shuang long qiang zhu 3
+super luster ii
 silverball
 silverball bulova
 sm1800
@@ -5473,6 +5655,7 @@ spc-1000
 spc-1500
 super play computer 4000
 spc-400d
+special forces - kung fu commando
 space liner
 space pokan
 space poker
@@ -5526,8 +5709,9 @@ seishun-quiz colorful high school
 sr-16
 super road champions
 super real magic
+sphinx royal
+sunset riders / super street fighter ii - the new challengers
 samtron 88s
-shizhan sanguo ji jiaqiang ban
 silent scope 2 : innocent sweeper
 san se caishen
 super sensor iv
@@ -5593,20 +5777,26 @@ sparcstation 2
 sparcstation 10
 sparcstation 20
 super 555
+super 70's
 super 97
 super "9" sensory chess challenger
 super butterfly 2000
+super el dorado
 super game boy
 super game boy 2
+super kids / jiu nan xiao yingxiong
 superpet sp-9000
 super ship
 super model ii
+sphinx supra
 super a'can
 arcade classics mini handheld arcade
 supremo
 super tv-pc
+super tv-pc - doraemon
 super tv-pc - hello kitty
 surprise 5
+sutjaro haeyo deluxe
 sovereign
 super vision 8000
 svi-318
@@ -5655,6 +5845,7 @@ t2000sx
 bitel t3210
 3 in 1 sports arena
 tandy 4000
+clie peg-t650c
 t7000 video terminal
 t9000
 ta 1700-pc
@@ -5669,8 +5860,14 @@ taiko no tatsujin 4
 taiko no tatsujin 5
 taiko no tatsujin rt: nippon no kokoro
 tail to nose - great championship / super formula
+tairyo-daiko 337 byoshi
 taito test fixture
 type zero bios
+choro-q byun byun racer
+comet-san lovelin baton
+bakutou sengen daigunder dx
+bakushin sno-bo - gingin boarders
+poko poko hammers
 take 5
 starting lineup talking baseball
 superstar lineup talking football
@@ -5681,12 +5878,13 @@ tandy 200
 tandy 2000
 tandy 2000hd
 tano dragon 64
-teenage mutant ninja turtles - turtle fighter
+kasparov turbo advanced trainer
 taurus
 taxi
 tayny okeana
 tb-303 bass line
 batman forever: double dose of doom
+zx spectrum next: tbblue
 tc-2048
 total control 4
 tc7: air traffic control
@@ -5716,6 +5914,8 @@ tektronix 4109a
 tekxpress xp330
 teleguide
 teleray model 10
+teleshibai
+teleshibai - purple version
 telestory
 teletup
 telex 1192
@@ -5739,6 +5939,9 @@ the hole
 the porter
 the quest
 the rock
+thinkpad 600
+thinkpad 600e
+thinkpad 850
 thrill drive 3
 ti-1000
 ti-1250
@@ -5809,7 +6012,6 @@ telmac 2000e
 telmac tmc-600
 mega man 3
 mighty max
-teenage mutant ninja turtles - mutant warriors
 pat48av
 pat48pg4
 tms9995 breadboard
@@ -5823,9 +6025,11 @@ to8d
 to9
 to9+
 toledo
+disney princess kirakira mahou no lesson
 tom's adventures
+kindai uchimakuri variety shateking
+asobitai hyper rescue - boku wa kyuujotai!
 tong zi maque
-ton puu mahjong version 2.0 rx
 merlin m1800 tonto
 top driving
 top t. cash
@@ -5835,7 +6039,7 @@ torch model 725
 torch cf240
 toshiba t1000
 t3200sxc
-touch and go
+tou ma pet
 torre eiffel
 386sx system 40
 tower at 201, 202, 220, 240 and 260
@@ -5845,6 +6049,7 @@ tv test pattern generator 1983
 tv test pattern generator 1985
 tpc-310
 pit-fighter
+turbo pk
 tpp-311
 tps-312
 tr-175 ii
@@ -5853,8 +6058,10 @@ tranz 330
 tricep
 triforce bios
 triomphe
+triple jack
 sum-eoitneun deongdalireul chat-ara!
 tri-pool: 3-in-one
+triple slot
 triton l4.1
 triton l5.1
 triton l5.2
@@ -5862,6 +6069,7 @@ triton l7.2
 trium eclipse
 trma via
 tropical chance
+tropical fruits
 trs-80 model i
 trs-80 dt-1 data terminal
 trs-80 model 16
@@ -5874,6 +6082,9 @@ super goal keeper
 shuttle voyage
 trs-80 model 100
 space rescue
+trivia ? whiz edition 2
+trivia ? whiz edition 3
+trivia ? whiz edition 4
 ts-1
 ts-10
 timex sinclair 1000
@@ -5890,6 +6101,7 @@ ts803h
 ts816
 handy boy 11-in-1
 interactive m.a.g. motion activated gear: toy story and beyond! buzz lightyear galactic adventure
+travel sensor chess
 zx evolution: ts-configuration
 street fighter 2010: the final fight
 castlevania ii: simon's quest
@@ -5903,7 +6115,7 @@ turbo twist fact blaster
 turbo twist math
 turbo twist spelling
 turbo twist vocabulator
-turbo 16k
+kasparov turbo 16k
 turbo extreme
 kasparov turbo s-24k
 gi turf wild 3
@@ -5927,16 +6139,23 @@ tv boy ii
 tvc-4000
 tvc 64
 tvc 64+
+tv dear multi word processor
 terebi denwa super mario world
+terebi denwa thomas the tank engine and friends
 z80 tv game system
 tv game 8080
 gogo tv video vision
 tv link pal
+tv mahjong game
 tv ocha-ken
+tv-pc doraemon
+tv-pc tottoko hamutaro
+tv-pc thomas & friends
 twin basket
 netstation pc
 tx-8000
 x-men: project x
+te yi gong neng
 u-20 rs-pcm keyboard
 u-220 rs-pcm sound module
 u3911-v3
@@ -5946,6 +6165,7 @@ micro chroma 68
 uc-v102
 u-dance
 ufo catcher 7
+ufo à la carte
 ufo master-blaster station
 ufo robot
 um jammer lammy now!
@@ -5953,6 +6173,7 @@ uk101
 uk-2086 ver. 1.2
 uknc / ms-0511
 ultim809
+ultra 45
 um486/um486sx
 um486v-aio
 um8810 paio
@@ -5975,7 +6196,6 @@ unknown sega air hockey game
 unknown hobby play slot machine
 unknown konami medal game
 unknown ljf corporation poker game
-unknown merit game
 coco louco
 unknown 'pac man with cars' gambling game
 unknown pmc game
@@ -5991,7 +6211,6 @@ ut-88 mini
 unitron 1024
 uts-10
 uts-20
-advanced voice chess challenger
 uzebox
 v.1
 visual 100
@@ -6065,8 +6284,9 @@ videopac c52
 videopac+ g7400
 vii
 cosmac vip
-unknown 'vip 2000' game
 vip-64
+virtual baseball
+virtual tennis
 virus a
 virus b
 virus c
@@ -6132,6 +6352,7 @@ w-30 music workstation
 walkstation 386dx
 walkstation 386 sx
 wang professional computer
+wanpaku pirates
 wanted g-man
 war: final assault
 wanpaku safari
@@ -6159,7 +6380,9 @@ talking wrinkles
 warlok
 wireless hunting video game system
 weight talker
+web touch one
 waku waku anpanman
+wan wan dash
 wicked witch
 winner's wheel - magical spot
 wy-100
@@ -6198,13 +6421,14 @@ xavix tennis
 apricot xen-s
 apricot qi 300
 xbox
+xd88/01
 xds-19p
 x'eye
-xiao ao jiang hu
 xi processor board
 xl 25
 xm200 orchestra module
 xor s-100-12
+x-reel
 x's & o's
 301 xl
 416 xl
@@ -6222,13 +6446,14 @@ yis503
 yis503f
 yis503ii
 yis604/128
+yizhi xiangqi
 yori jori kuk kuk
 youkai douchuuki
 yoyo spell
 z-100
 z1013
 z-22 terminal
-z-29
+z-29 terminal
 z80 based, triple time zone clock
 z80 dev board
 z80ne
@@ -6236,6 +6461,7 @@ z80ne + lx.388
 z80ne + lx.388 + basic 16k
 z80ne + lx.388 + lx.390
 z88
+z-90
 z9001
 zackman
 zankor
@@ -6248,14 +6474,18 @@ z-248
 zeebo
 zenigata ponta
 386 sx-16
+firenze
+zhongguo chu da d
 4dvs
 v630e baby at
 zi jin i
 zippity
+zircon ii
 tomato board 4dps
 zodiac: the astrology computer
 zone family fit
 zoomania
+zoomer
 zorba
 zrt-80
 zsbc-3
@@ -6268,6 +6498,8 @@ zaurus sl-c750 "shepherd"
 zaurus sl-c760 "husky"
 zt-8802 sbc
 zudu-go / 2udu-go
+unknown zanussi / necta vending machine
+venezia
 zvezda
 zx-80
 zx-81
@@ -6281,6 +6513,8 @@ sv-806 80 column cartridge
 sv-807 64k ram cartridge
 sk-1100 link cable
 alpha denshi alpha-8921
+fp-1020fd fdcpack
+fp-1030 rampack
 disto mini expansion bus
 ti-99 cartridge
 54/74160 decade counter
@@ -6302,13 +6536,14 @@ namco 163
 sharp sm590
 sharp sm591
 sharp sm595
-sh7014 i/o port
 sh7014 multifunction timer pulse unit
 sh7014 multifunction timer pulse unit channel
 sh7014 bus state controller
 sh7014 direct memory access controller
 sh7014 direct memory access controller channel
 sh7014 interrupt controller
+namco c77
+fujitsu mb90f574
 bee card rom
 softcard rom
 msx audio keyboard connector port
@@ -6333,6 +6568,7 @@ dempa micom soft analog/digital intelligent controller
 mos technology 6510t
 mos 6702
 mos 8726 dma controller
+fp-1060i/o expansion slot
 ch376 usb/file manager module
 cs8900a crystal lan 10base-t ethernet mac
 at28c64b 8kx8 eeprom
@@ -6347,7 +6583,6 @@ midi in image device
 midi out image device
 commodore 2040 fdc
 d9060hd
-simh tape image
 hitachi h8/3032
 hitachi h8/3031
 hitachi h8/3030
@@ -6359,18 +6594,22 @@ fujitsu mb91f155a
 generic ram 32k
 generic ram 64k
 generic ram 128k
-heath he 191-3425 keyboard
-micro-decision keyboard
 yamaha gew7 pcm
-yamaha swx00
 sh 16-bits port
 sh 32-bits port
+sh dma controller
+sh dma controller channel
+sh bus state controller
+sh multifuntion timer pulse unit
+sh multifuntion timer pulse unit channel
 sh2/704x cmt
 sh2/704x adc
 sh interrupt controller
 yamaha plg100-vl
 yamaha plg150-ap
 diablo
+wy-85 keyboard
+wy-30 keyboard
 wy-60 ascii keyboard
 wyse at-style keyboard
 wyse ibm 316x-style keyboard
@@ -6418,10 +6657,10 @@ spg2xx-series system-on-a-chip audio
 spg110-series system-on-a-chip audio
 sunplus gcm394 system-on-a-chip
 sunplus / generalplus video rendering
+darren atkinson's mcx-128 cartridge
 mc-10 program pak
 radio shack 16k ram cartridge
 fred_72 and 6502man's multiports extension
-darren atkinson's mcx-128 cartridge
 coco program pak
 coco psg
 coco direct connect modem pak
@@ -6462,6 +6701,7 @@ pa7243 pasopia ram pac2
 pa7245 pasopia ram pac2
 pa7248 pasopia ram pac2
 pa7234 pasopia pac2 expansion unit
+f2mc16 adc
 tiki-100 8/16
 tiki-100 winchester controller
 ti-99 standard cartridge connector
@@ -6551,6 +6791,7 @@ sun turbogx+ sbus video
 sun sunpc accelerator
 sun 10/100 + fast wide scsi
 artecon sb-300p 3s/1p controller
+simh tape image
 sun mouse
 sun type 3 keyboard
 sun type 4 keyboard
@@ -6561,6 +6802,11 @@ playstation analog joystick
 playstation multitap
 sony psx memory card
 datel game booster for playstation
+f2mc16 programmable pulse generator
+f2mc16 uart
+f2mc16 clock generator
+f2mc16 intc
+f2mc16 port
 imi 5000h
 western digital wd11c00-17
 ql standard rom cartridge
@@ -6606,6 +6852,7 @@ kempston centronics e
 didaktik melodik
 mikro-plus - shadow of the unicorn
 micro-pokeer
+the music machine
 opus discovery
 mgt +d
 mgt disciple
@@ -6717,6 +6964,9 @@ vp-585 keyboard interface + vp-580 16-key keypad
 vp-590 color board + vp-580 16-key keypad
 vp-595 simple sound
 vp-700 expanded tiny basic
+psion rs232/parallel module
+psion parallel printer link cable
+psion pc link cable
 psion siena ssd drive
 psion 3-fax modem
 psion 3-link rs232 serial interface
@@ -6838,13 +7088,36 @@ nec pc-8801-23 "sound board ii"
 hal laboratory pcg-8100
 jmb-x1 "sound board x"
 hal hmb-20
+hal gsx-8800
 nascom advanced video card
 nascom floppy disc controller
 hitachi sh-2
+sh7014 i/o port
 sh7014 sci controller
 ic designs 2061a dual programmable graphics clock generator
 sanyo lc78836m digital audio 16-bit d/a converter
+namco cyber lead i/o led
+namco amc pcb
+namco asca-1
+namco asca-3
+namco asca-5
+namco csz1 miu-i/o
+namco em i/o1-02
+namco em pri1-01
+namco fca-1
+namco fcb
+namco tss-i/o
+namco xmiu1 tss-i/o
 namco c67
+multitech epb-mpf
+multitech epb-mpf-ibp
+multitech sgb-mpf
+multitech ssb-mpf
+multitech iom-mpf-ip
+multitech prt-mpf
+multitech prt-mpf-ip
+multitech tva-mpf-ip
+bardehle video-mpf-i
 msx cartridge - arc
 msx cartridge - ascii8
 msx cartridge - ascii16
@@ -6893,9 +7166,11 @@ msx cartridge - keyboard master
 msx cartridge - konami ec-701
 hudson soft bp-0001 bee pack card reader
 msx cartridge - bm-012
+msx cartridge - franky
 sony hbi-55/yamaha udc-01 data cartridge
 msx cartridge - moonsound
 electric software astron softcard adaptor
+sunrise ata-ide/cf ata-ide interface
 yamaha ucn-01
 msx slot expander
 generic msx 16k ram expansion
@@ -6908,6 +7183,8 @@ generic msx 768k mm ram expansion
 generic msx 1024k mm ram expansion
 generic msx 2048k mm ram expansion
 generic msx 4096k mm ram expansion
+tecnobytes double ram
+popolon musical memory mapper
 msx cartridge - avt dpf-550
 msx cartridge - cdx-2
 msx cartridge - ddx3.0
@@ -6929,7 +7206,6 @@ msx cartridge - vy0010
 msx cartridge - sfg01
 msx cartridge - sfg05
 yamaha skw-01
-ascii r800
 heurikon hk68/v10
 motorola mvme120
 motorola mvme121
@@ -6939,6 +7215,7 @@ motorola mvme147
 motorola mvme180
 motorola mvme181
 motorola mvme327a
+motorola mvme328
 motorola mvme350
 mizar vme8105
 mizar 8300
@@ -6965,7 +7242,6 @@ samsung ks0164 audio processor
 magiceyes vrender0 sound engine
 magiceyes vrender0 uart
 magiceyes vrender0 video engine
-mediagx virtual vga i/f
 cem3394 synthesizer voice
 bally astrocade light pen
 bally astrocade joystick
@@ -7048,11 +7324,14 @@ intel imm6-26 prom memory module
 intel imm4-90 high-speed paper tape reader
 intel i3001 mcu
 intel i3002 cpe
+philips 80c51 xa
+philips mx10exa
 hp82919 card
 hp98543 medium-res color dio video card
 hp98544 high-res monochrome dio video card
 hp98603a basic 4.0 rom card
 hp98603 basic rom card
+hp98624 gpib interface
 hp98643a lanic ethernet card
 hp98644a asynchronous serial interface
 hp human interface card
@@ -7102,6 +7381,8 @@ sc113 - modular backplane
 sc141 - modular backplane
 sc147 - modular backplane
 motorola mc6843 fdc
+heath he 191-3425 keyboard
+micro-decision keyboard
 mm5740 keyboard encoder
 texas instruments tms2100
 texas instruments tms2170
@@ -7111,6 +7392,7 @@ sharp sm500
 newbrain eim
 newbrain fdc
 adaptec aha-2940au scsi controller
+ncr/symbios logic/lsi logic 53c825a pci
 promise pdc20262 fasttrak66 eide controller
 realtek rtl8029as full-duplex ethernet
 realtek rtl8139 pci fast ethernet adapter card
@@ -7139,6 +7421,7 @@ nvidia geforce 256 sdr
 nvidia geforce 256 ddr
 nvidia quadro
 cirrus logic gd-5465 "laguna 3d"
+videologic powervr neon 250
 sis 6326 agp card
 fmt-121 scsi card
 msx digital joystick
@@ -7172,9 +7455,9 @@ cd40105b fifo register
 joystick interface eg2013
 printer interface eg2012
 colour genie fdc
+kawasaki steel kp64 timer/counter
 kawasaki steel kp63 timer/counter
 kawasaki steel kp63a timer/counter
-kawasaki steel kp64 timer/counter
 dec pc11 controller
 tti qts-1 scsi host adapter
 dsd a4432 floppy disk interface
@@ -7182,6 +7465,7 @@ dvk kgd framebuffer
 dvk mx floppy controller
 uknc floppy
 matrox qg-640 color display processor card
+bk0010 floppy
 dec rx01 cpu
 h8 dtc controller
 conitec datensysteme grip-2.1
@@ -7328,6 +7612,7 @@ colecovision activision cartridge
 colecovision megacart
 colecovision standard cartridge
 colecovision x-in-1 cartridge
+fp-1060i/o expansion box
 casio gt913f sound
 casio gt913f i/o
 casio gt913f keyboard controller
@@ -7391,6 +7676,8 @@ atari 8-bit cassette
 nxp lpc2103
 cbs electronics booster-grip joystick adaptor
 atari cx85 numeric keypad
+atari cx22/cx80 trak-ball
+mediagx virtual vga i/f
 paradise systems pvga1a i/f
 western digital wd90c00 "pvga1b" vga i/f
 western digital wd90c11a "pvga1c" vga i/f
@@ -7425,6 +7712,8 @@ rasterops colorvue 8lc video card
 ati vga i/f
 ati mach32
 ati mach64
+motorola m68hc05e1
+motorola m68hc05e5
 apple descriptor-based dma channel
 saturn systems 128k extended language card
 apple ii rom card
@@ -7474,6 +7763,7 @@ stellation two q-68 plus
 grafex-32
 seikou excel-9
 vista a800 8inch disk controller card
+apple ii wico trackball card
 zip technologies zipdrive
 parsons engineering focus drive
 applied engineering pc transporter
@@ -7490,8 +7780,11 @@ applied engineering vulcan gold ide controller
 titan /// plus //
 microsoft softcard ///
 sirius joyport
+sirius joyport with apple ii paddles
 hal labs gizmo
 digital vision computereyes
+wico command control joystick adapter
+softape bright pen
 archive sc-499
 sc-499 cartridge tape
 interact magnum 6 game controller
@@ -7602,6 +7895,7 @@ mator shark
 commodore 1526/mps-802 dot matrix printer
 commodore 4023 printer
 hp9122c dual high density disk drive
+hp9133 floppy/fixed disk drive
 hp9895
 ieee-488 remotizer
 grid2102
@@ -7723,6 +8017,7 @@ acorn a500 2nd processor
 acorn a500
 casper 68000 2nd processor
 cms 6809 2nd processor
+matchbox co-processor
 econet x25 gateway co-processor
 acorn extended 6502 2nd processor
 solidisk pc-plus co-processor
@@ -7781,7 +8076,6 @@ cms high resolution colour graphics card
 cms ieee controller board
 generic rom
 generic rom + ram
-scsi tape
 panasonic cw-7501 cd-r
 creative technology blaster cd-r 4210
 caravelle cdr-n820s
@@ -7881,7 +8175,6 @@ iq151 amos cart 1
 iq151 amos cart 2
 iq151 amos cart 3
 iq151 cartridge slot
-z-29 keyboard port
 tms3615
 zaccaria 1b11107 sound board
 zaccaria 1b11142 sound board
@@ -7892,11 +8185,14 @@ mn3004 bbd
 mn3005 bbd
 mn3006 bbd
 mn3204p bbd
+yamaha swx00
 yamaha mks3 piano keyboard scanner
 yamaha ymw728-f
 yamaha ymw270-f
+yamaha sci4 quad-serial gate array
 yamaha mu5/mu15 common lcd
 sanyo lc7985na/lc7985nd lcd controller
+sh serial communications interface
 hitachi h8s/2655
 hitachi h8s/2653
 plg1x0 extension connector
@@ -7928,9 +8224,9 @@ creativision cartridge slot
 vs920a text tilemap
 mb60553 zooming tilemap
 video system c7-01 gga
-video system vs9108 sprites
-vs9209 i/o
 video system vs8904/vs8905 sprites
+vs9209 i/o
+video system vs9108 sprites
 xds keyboard
 visual 50 keyboard
 visual 1050 keyboard
@@ -7950,8 +8246,10 @@ vector 4 keyboard
 vector sbc video output
 tia-mc1 custom sound
 specialist mx custom sound
+kl1839vm1
 kr1601rr1 earom
 ie15
+1801vp1-014
 patinho feio cpu
 lady bug/space raider video
 cheeky mouse sound board
@@ -7971,8 +8269,8 @@ xavix / radica football ball
 xavix math unit
 xavix analog ports
 xavix adc
-e-kara cartridge slot
 xavix / radica monster truck steering wheel
+e-kara cartridge slot
 baobaolong handhelds lcd controller
 spg240-series system-on-a-chip i/o
 spg280-series system-on-a-chip i/o
@@ -8004,14 +8302,15 @@ elan eu3a05 video
 dallas ds6417 cybercard
 trs-80 model ii keyboard
 smc crt9021 vac
-smc crt9212 drb
 tandy 2000 keyboard
 mc-10 cartridge slot
 trs-80 /cmd quickload
 tcc1014
 virtual becker port
-mc6883 sam
 pasopia pac2 slot
+fujitsu mb90610a
+fujitsu mb90611a
+f2mc16 16-bit reload timer
 gp9001 vdp
 toaplan scu
 tiki-100 expansion bus
@@ -8073,6 +8372,9 @@ thomson md 90-120 modem
 thomson rf 57-932 rs-232-c interface
 cedic-nathan speech synthesizer
 nanoreseau controller
+thomson to8 keyboard
+thomson to9 keyboard
+thomson to9+ keyboard
 televideo 955 keyboard
 televideo 950 keyboard
 mostek mk3801 sti
@@ -8128,6 +8430,7 @@ sun sbus slot
 sun sbus
 sun 4 mmu
 sun 4c mmu
+scsi tape
 sun mouse port
 sun keyboard port
 subsino ss9602 i/o
@@ -8159,6 +8462,7 @@ sony cxd8403q dmac3 dma controller
 sony dma controller 0448
 sony cxd1185 scsi 1 protocol controller
 sony 0266 dma controller
+fujitsu mb90641a
 still image
 snk6502 custom sound
 snk fantasy sound
@@ -8171,7 +8475,6 @@ k1ge monochrome graphics + lcd
 k2ge color graphics + lcd
 toshiba tmp87ph40an
 upd7004 a/d converter
-snk beast busters sprites
 zorba keyboard
 fujitsu mb88303
 rockwell r65c19 mcu
@@ -8186,6 +8489,7 @@ xt-ide fixed drive adapter
 vt8231 south bridge - pci to isa bridge
 marvell mv64361 system controller
 marvell mv64361 pci host
+mips-x
 ngen keyboard
 teleprinter
 sitronix st2205u integrated microcontroller
@@ -8211,20 +8515,29 @@ motorola mc68hc05eg
 hitachi hd6305v0
 hitachi hd6305y2
 hitachi hd63705z0
-mc6844 dma
 ts-conf dma controller
 zilog z84c015
+z80n
+spectrum next ctc
+spectrum next dma
+spectrum next copper
+spectrum next divmmc
+spectrum next lores
+spectrum next tiles
+spectrum next sprites
+spectrum next layer2
+spectrum next multiface
 ql rom cartridge slot
 ql expansion port
-ql internal mouse interface
 sinclair zx8301
+ql internal mouse interface
 sinclair microdrive
 sinclair zx8302
 zxbus slot
 zxbus bus
 mr gluk reset service
-sdhc card
-sdv2 card
+spectrum ula+
+spectrum ula next
 zx spectrum expansion port
 beta disk interface
 taxan ky-80
@@ -8274,6 +8587,7 @@ sgi memory controller
 sgi gio64 slot
 sgi gio64 bus
 tim-011 expansion port
+tim-011 keyboard
 iskra delta partner video
 iskra delta partner bus
 iskra delta partner bus connector
@@ -8301,6 +8615,7 @@ pioneer ld-v4200 hle
 sanyo lc8670
 acclaim rax
 tsukuda original othello multivision fg-1000 / fg-2000 cartridge slot
+motorola mc68000
 nec upd7725
 nec upd96050
 md standard cart
@@ -8354,8 +8669,8 @@ hitachi h8s/2390
 sega ai expansion slot
 sega ai card slot
 sega tv ocha-ken barcode card
-ap2010 pcm
 ap2010 cpu
+ap2010 pcm
 sega 837-14438 sh i/o bd
 x76f100 secure serialflash
 jvs
@@ -8430,11 +8745,12 @@ epson sed1200f-0a lcd controller
 epson sed1200d-0b lcd controller
 epson sed1200f-0b lcd controller
 roland super jx synthesizer board
+roland gp tc6116 pcm
 hitachi hd6435328
 hitachi hd6475328
 oki msm6222b-xx lcd controller
 oki msm6222b-01 lcd controller
-roland mb87419/mb87420 pcm
+roland lp mb87419/mb87420 pcm
 roland mb63h114 multiple address counter
 hitachi hd6415108
 roland mb62h195 i/o
@@ -8443,6 +8759,7 @@ robotron k7071 abs
 acb4070
 xebec s1410
 rm nimbus keyboard
+research machines mq2
 intel 82730
 rc759 keyboard
 vip byte i/o port
@@ -8546,6 +8863,7 @@ north star mds-a-d
 seals 8k sc memory board
 seals 8k sc memory board with battery backup
 alpha micro am-310 communications controller
+smc crt9212 drb
 mikromikko 1 keyboard
 mc68340 timer module
 sda5708
@@ -8589,6 +8907,9 @@ gba carts + sanyo flash + rtc
 3d matrix memory mapper
 game boy advance cartridge slot
 gba lcd
+lr35902 apu
+cgb04 apu
+agb apu
 mega duck cartridge slot
 game boy cartridge slot
 dmg ppu
@@ -8596,8 +8917,6 @@ mgb ppu
 sgb ppu
 cgb ppu
 sharp lr35902
-lr35902 apu
-cgb04 apu
 8-bit latch
 sharp lh5801
 ricoh rp2a03 core
@@ -8630,8 +8949,8 @@ lc89510_temp_device
 neo-geo sprites
 midas sprites
 nec v810
-hudson huc6271 "rainbow"
 hudson soft huc6230 soundbox
+hudson huc6271 "rainbow"
 hudson huc6272 "king"
 hudson huc6261 vce
 pce super system card
@@ -8654,7 +8973,7 @@ nec pc-9801-55l
 nec pc-9801-118
 system sacom amd-98
 nec pc-9801-86
-nec pc9801 speakboard
+nec pc-9801 speakboard
 mad factory otomi-chan kai
 pc9801 sasi controller
 nec pc-9801 memory switch device
@@ -8696,9 +9015,8 @@ nasbus slot
 nasbus backplane
 gee bee custom sound
 namco 63701x
-fujitsu mb90610a
-fujitsu mb90611a
-fujitsu mb90641a
+fujifilm md8412b ieee-1394 llc
+vpx-3220a video pixel decoder
 mb87078 volume controller
 namco i/o gearbox
 namco system 21 dsp setup
@@ -8711,13 +9029,14 @@ namco c139 serial
 namco c148 interrupt controller
 toshiba xm-6402b cd-rom
 namco system 12 cdxa pcb
-namco settings
 h8/3337 adc
 h8/3006 adc
 h8/2245 adc
 h8/2319 adc
 h8/2357 adc
 h8/2655 adc
+jvs io port
+namco settings
 namco c406 keycus
 namco c409 keycus
 namco c410 keycus
@@ -8727,7 +9046,6 @@ namco c431 keycus
 namco c432 keycus
 namco c442 keycus
 namco c443 keycus
-toshiba tmp95c061
 namco system 10 exio
 namco system 10 mgexio
 namco system 10 type 2 decrypter
@@ -8761,6 +9079,10 @@ namco 15xx
 namco cus30
 communications adapter pc/xt
 communications adapter
+micro-professor expansion slot
+ascii r800
+msx-engine s1990
+msx internal panasonic08r
 msx internal panasonic08
 msx system flags
 msx internal msx-write
@@ -8853,6 +9175,7 @@ mtu130 extension board slot
 monon color cartridge slot
 csg 65ce02
 appotech ax208
+mc6883 sam
 amc am29000
 microprose custom sound
 inder 4xdac sound board
@@ -8881,6 +9204,11 @@ ds17487 rtc
 ds17885 rtc
 ds17887 rtc
 samsung s3c2440 soc
+microchip pic16cr83
+microchip pic16cr84
+microchip pic16f83
+microchip pic16f84
+microchip pic16f84a
 mitsubishi m37702m2
 mitsubishi m37702s1
 mitsubishi m37710s4
@@ -8911,6 +9239,7 @@ magiceyes vrender0 soc
 adchips se3208
 mc68328 dragonball processor
 mc68ez328 dragonball-ez processor
+texas instruments tms32020
 texas instruments tms32025
 texas instruments tms32026
 hitachi hd6435208
@@ -8923,11 +9252,6 @@ pmi dac-76 comdac
 mm5837 digital noise source
 mm5837 digital noise stream
 pcf8584 i2c bus controller
-zfmicro pciusb host controller
-mediagx cs5530 video controller
-mediagx cs5530 ide controller
-mediagx cs5530 bridge
-mediagx x-bus host pci
 oki msm9810 adpcm
 ds1994 ibutton 4kb memory plus time
 hpc46003
@@ -8978,21 +9302,8 @@ williams system 9 sound board
 williams system 11 sound board
 midway w-unit video
 midway x-unit video
-intel 82371 southbridge isa bridge
-intel 82371 southbridge ide interface
 smsc fdc37c93x super i/o
 smsc fdc37m707 super i/o
-smbus interface
-lpc acpi
-intel 82371eb piix4e power management and acpi
-intel 82371eb piix4e usb host controller
-intel 82371eb piix4e pci to isa southbridge
-intel 82371eb piix4e pci to isa/eio southbridge
-intel 82439hx northbridge
-intel 82443bx pac host to pci northbridge
-intel 82443lx pac host to pci northbridge
-intel 82443bx virtual pci-to-pci bridge
-intel 82443lx virtual pci-to-pci bridge
 williams system 11c background audio board
 williams system 11 background audio board
 williams system 11
@@ -9102,7 +9413,9 @@ fdc4710 ssdd floppy disk controller
 fdc4711 dsdd floppy disk controller
 fdc4712 dsdd floppy disk controller
 step/one keyboard
+toshiba tmp95c061
 scsi callback
+luxor teletex 800
 sn74s262n row output character generator
 sn74s263n row output character generator
 abc 80 keyboard
@@ -9134,9 +9447,13 @@ motorola dsp56156
 k053250ps lvc
 k005289 scc
 k054000 protection
-linear flash pc card
 sony psx sio-0
 sony psx sio-1
+fujitsu 16mb flash card
+fujitsu 32mb flash card
+sharp id245p01 32mb linear flash memory card
+pm24276 32mb linear flash memory card
+konami dual pc card adapter
 konami 573 karaoke i/o board
 playstation 2 iop timer
 playstation 2 iop dmac
@@ -9203,6 +9520,7 @@ k056800 mirac
 k033906 pci bridge
 k001006 texel unit
 k056230 lanc
+konami viper lanc
 adc1038
 k001005 polygon renderer
 analog devices adsp21062 "sharc"
@@ -9288,11 +9606,11 @@ compucolor floppy
 irem m-37b audio
 irem m-37b/ue-17b audio/voice
 irem demoneye-x audio
+irem m72 audio
 irem m62 audio
 irem m52 soundc audio
 irem m52 large audio
 irem ga20
-irem m72 audio
 vc 4000 standard carts
 vc 4000 carts w/4k rom
 vc 4000 carts w/1k ram
@@ -9306,8 +9624,6 @@ intel 82596 dx/ca high-performance 32-bit local area network coprocessor
 interpro mouse port
 interpro mouse
 interpro keyboard port
-memory controller gate array
-fast memory control chip
 interpro cbus bus
 interpro cbus slot
 interpro srx bus
@@ -9316,12 +9632,14 @@ srx gate array
 c4e/c4t cammu
 c4i cammu
 c1/c3 cammu
+memory controller gate array
+fast memory control chip
 i/o gate array
 intel 8355
 sdk-85 expansion rom socket
 intel isbc 80/24 single board computer
-isbc 215g winchester disk controller
 isbc 208 flexible disk driver controller
+isbc 215g winchester disk controller
 isbx bus slot
 intel 8008
 intel imm6-76 prom programmer
@@ -9334,9 +9652,13 @@ radio shack serial printer
 informer 207/376 keyboard
 intel i960kb
 arm advanced interrupt controller
-igs025
 igs028
+igs025
+igs023 video system
+igs mx10exaqc-based ics2115 sound system
+igs mx10exaqc sub-cpu
 em microelectronic-marin sa v3021 rtc
+igs 027a arm cpu
 igs022 encrypted dma device
 igs017_igs031
 ics2115 wavefront synthesizer
@@ -9361,6 +9683,20 @@ motorola mc68hc811e2
 motorola mc68hc11f1
 motorola mc68hc11k1
 motorola mc68hc11m0
+intel 82371 southbridge isa bridge
+intel 82371 southbridge ide interface
+national semiconductor pc97338 super i/o
+smbus interface
+lpc acpi
+intel 82371eb piix4e power management and acpi
+intel 82371eb piix4e usb host controller
+intel 82371eb piix4e pci to isa southbridge
+intel 82371eb piix4e pci to isa/eio southbridge
+intel 82439hx northbridge
+intel 82443bx pac host to pci northbridge
+intel 82443lx pac host to pci northbridge
+intel 82443bx virtual pci-to-pci bridge
+intel 82443lx virtual pci-to-pci bridge
 isa 8bits xt fdc hookup
 isa 8bits at fdc hookup
 isa 8bits smc fdc hookup
@@ -9394,6 +9730,8 @@ hp ipc optional rom
 32-bit dio-ii slot
 16-bit dio bus
 32-bit dio-ii bus
+upi of hp98x6 systems
+hp98x6 optional rom
 hp9845 internal printer
 hp taco
 hp9845 optional rom
@@ -9436,21 +9774,29 @@ sprow 24bbc/ram disc board
 sprow 2nd serial port
 retroclinic bbc 8-bit ide interface
 sprow beebide 16-bit ide interface
+sd card
+nxp sc16is741a uart
+generic spi ram
+generic spi/qpi pseudo-sram
 gigatron cpu
 intel 4004
 intel 4040
-hitachi mp-1802 floppy controller card
-hitachi mp-1805 floppy controller card
+hitachi mb-s1 mmu
+hitachi mp-1802 5.25" floppy controller card
+hitachi mp-1805 3" floppy controller card
 hitachi mp-9740 kanji character rom card
 hitachi real time clock card
 hitachi mb-6890 slot
 hitachi mb-6890 bus
 tasc chessmachine
+z-29 keyboard port
 heath h-88-5 cassette interface
+magnolia microsystems 77316 soft-sectored controller
 sigmasoft universal parallel board
 heath h/z-37 soft-sectored controller
 heath h/z-89 interrupt controller
 heath h/z-89 with z-37 interrupt controller
+heath h/z-89 with mms interrupt controller
 heath interrupt socket
 heath terminal logic board connector abstraction
 heath terminal logic board
@@ -9499,10 +9845,10 @@ tms1024 i/o expander
 tms1025 i/o expander
 suwa seikosha smc1102
 suwa seikosha smc1112
-sharp sm510
-sharp sm530
 sharp sm511
 sharp sm512
+sharp sm530
+sharp sm510
 sharp sm5a
 sharp sm5l
 kb1013vk1-2
@@ -9557,6 +9903,7 @@ crazy climber sound board
 gi sp0250 lpc
 mm54104 digitalker
 moon cresta custom sound
+bongo custom sound
 space battle custom sound
 texas instruments tms32082 mp
 texas instruments tms32082 pp
@@ -9574,7 +9921,10 @@ sun keyboard adaptor
 national semiconductor w83787f super i/o enhanced sidewinder lite
 pci extension motherboard port
 sis 85c496/497 chipset
-super a'can audio
+super a'can standard cart
+super a'can cartridge slot
+umc um6650 lockout chip
+umc um6619 sound engine
 fm-scsi
 fm towns scsi card slot
 fm towns ic memory card
@@ -9625,12 +9975,6 @@ taito tc0091lvc
 excellent systems es8712 sound controller
 excellent 8-bit sprite
 mb3773 power supply monitor
-hitachi h8/3257
-hitachi h8/3256
-hitachi h8/325
-hitachi h8/324
-hitachi h8/323
-hitachi h8/322
 hitachi h8/3217
 hitachi h8/3216
 hitachi h8/3214
@@ -9643,6 +9987,7 @@ eis twib ibm mainframe terminal adapter
 intel 8087
 ericsson pc keyboard
 am8052 crtc
+mc6844 dma
 epson qx-10 keyboard port
 epson qx-10 keyboard
 qx-10 option slot
@@ -9672,9 +10017,9 @@ texas instruments tms1475
 texas instruments tms1600
 texas instruments tms1670
 volume filter
-inteligent designs dave
+intelligent designs dave
 enterprise sixty four expansion bus slot
-nick
+intelligent designs nick
 motorola mc68hc05c4
 motorola mc68hc05c8
 motorola mc68hc705c4a
@@ -9715,12 +10060,6 @@ colour genie parallel slot
 colour genie expansion slot
 toshiba tmp68301
 toshiba tmp68303
-toshiba tmp90840
-toshiba tmp90841
-toshiba tmp90845
-toshiba tmp91640
-toshiba tmp91641
-toshiba tmp90ph44
 kawasaki steel kl5c80a12
 dynax tc17g032ap blitter
 castle of dracula tpc1020afn blitter
@@ -9742,6 +10081,7 @@ ms7002 keyboard
 rst interrupt buffer
 generic ripple counter
 nec upd7220
+nec upd7220a
 corvus flat cable hdc
 vt100 video
 western digital wd2010 winchester disk controller
@@ -9802,9 +10142,9 @@ zilog z86e02
 sony ldp-1000
 namco 186/187 or c355
 sanyo lc7535
+deco karnov sprites
 hitachi hd6309
 hitachi hd6309e
-deco karnov sprites
 cypress cy7c131 8-bit dual-port sram with interrupts
 idt 7130 8-bit dual-port sram with interrupts
 idt 71321 8-bit dual-port sram with interrupts
@@ -9834,20 +10174,26 @@ at45db041
 at45db081
 at45db161
 hitachi hd61603 lcd driver
+hitachi hd614022
+hitachi hd614023
+hitachi hd614025
+hitachi hd614026
+hitachi hd614028
+hitachi hd614029
+hitachi hd614042
+hitachi hd614043
+hitachi hd614045
+hitachi hd614046
+hitachi hd614048
+hitachi hd614049
+hitachi hd614080
+hitachi hd614081
+hitachi hd614085
+hitachi hd614086
+hitachi hd614088
+hitachi hd614089
 sanyo lc7580 lcd driver
 sanyo lc7582 lcd driver
-hitachi hd38750
-hitachi hd38755
-hitachi hd44750
-hitachi hd44758
-hitachi hd38800
-hitachi hd38805
-hitachi hd44801
-hitachi hd44808
-hitachi hd38820
-hitachi hd38825
-hitachi hd44820
-hitachi hd44828
 tms5110
 tms5100
 tmc0281
@@ -9867,6 +10213,7 @@ upd4990a rtc
 corvus flat cable interface
 corvus systems floppy controller
 corvus systems buffered floppy controller
+corvus concept keyboard
 rca cdp1871 keyboard encoder
 rca cdp1869 vis
 comx-35 expansion slot
@@ -9969,8 +10316,31 @@ star castle sound board
 solar quest sound board
 boxing bugs sound board
 war of the worlds sound board
+hitachi hd38750
+hitachi hd38755
+hitachi hd44750
+hitachi hd44758
+hitachi hd38800
+hitachi hd38805
+hitachi hd44801
+hitachi hd44808
+hitachi hd38820
+hitachi hd38825
+hitachi hd44820
+hitachi hd44828
+hitachi hd44840
+hitachi hd44848
+hitachi hd38870
+hitachi hd44860
+hitachi hd44868
 t6963c lcd controller
 tasc smartboard sb30
+hitachi h8/3257
+hitachi h8/3256
+hitachi h8/325
+hitachi h8/324
+hitachi h8/323
+hitachi h8/322
 ces blitter fpga
 national semiconductor ns32332
 national semiconductor ns32532
@@ -9986,8 +10356,11 @@ samsung k9f1g08u0b
 samsung k9f1g08u0m
 samsung k9lag08u0m
 samsung k9f2g08u0m
+toshiba tc58256aft
 ep1c12 blitter
 epson rtc-9701-je rtc/eeprom
+zoomer real time clock
+nec upd65043gf-u01
 tms9928a vdp
 tms9918 vdp
 tms9918a vdp
@@ -9999,6 +10372,7 @@ tms9129 vdp
 efo90501 vdp
 hitachi hd44352 lcd controller
 hitachi hd61700
+fp-1000/fp-1100 expansion slot
 nec upd934g
 panasonic mn1252 lcd controller
 oki msm6200 keyboard controller
@@ -10064,6 +10438,13 @@ texas instruments tms1270
 texas instruments tms1700
 texas instruments tms1730
 bfm dotmatrix 01
+toshiba tmp90840
+toshiba tmp90841
+toshiba tmp90845
+toshiba tmp91640
+toshiba tmp91641
+toshiba tmp90ph44
+oki msm66573
 intel 8257 dma controller
 motorola mpc105
 cirrus svga
@@ -10078,7 +10459,6 @@ mc68340
 barcrest/bell fruit serial electronic counter
 nec upd7759
 nec upd7756
-bacta datalogger
 mpu4 bootleg characteriser
 bwb mpu4 characteriser pal
 barcrest sampled sound program card
@@ -10130,7 +10510,6 @@ tontek tt5665 adpcm voice synthesis lsi
 hitachi h8/3008
 ssi tsi s14001a
 atari portfolio keyboard
-8042 keyboard/mouse controller
 pci bus legacy
 dma-driven dac
 atari mikey
@@ -10173,6 +10552,9 @@ m48t58 timekeeper
 mk48t08 timekeeper
 mk48t12 timekeeper
 ds1643 nonvolatile timekeeping ram
+rockwell 65c52 dacia
+bacta datalogger
+sony ldp-1450 hle
 wdc w65c02s
 atmel 29c020 256kx8 feeprom
 atmel 29c040 512kx8 feeprom
@@ -10199,7 +10581,6 @@ adc0809 a/d converter
 m58990 a/d converter
 atari 8-bit cartridge slot
 atari 8-bit sio slot
-oki msm6295 adpcm
 parallel eeprom 2804
 parallel eeprom 2816
 parallel eeprom 2864
@@ -10212,6 +10593,13 @@ er2055 earom
 mos technology 6507
 atari vcs 2600 2k/4k rom carts
 tia video
+zfmicro pciusb host controller
+mediagx cs5530 video controller
+mediagx cs5530 ide controller
+mediagx cs5530 bridge
+mediagx x-bus host pci
+8042 keyboard/mouse controller
+oki msm6295 adpcm
 intel i386
 intel i386sx
 intel i486
@@ -10254,12 +10642,15 @@ ncr 53c94 advanced scsi controller
 ncr 53c96 advanced scsi controller
 ncr 53cf94-2 fast scsi controller
 ncr 53cf96-2 fast scsi controller
+apple omega pll clock synthesizer
 apple sonora system asic
 apple v8 system asic
 apple eagle system asic
 apple spice system asic
 apple tinker bell system asic
+apple digitally filtered audio chip
 apple vasp system asic
+apple scsidma asic
 apple 343s1021 pic
 apple egret adb/i2c
 apple ram-based video
@@ -10336,9 +10727,9 @@ wdc w65c02
 ay-5-3600 keyboard encoder
 cffa compact flash for apple i
 mc6840 ptm
+apollo keyboard
 apollo screen
 apollo 19" monochrome screen
-apollo keyboard
 dn3000/ds3500 sio
 apollo node id
 motorola mc6800
@@ -10370,6 +10761,7 @@ sgi iris indigo mouse
 intel 28f016s5 flash
 sharp lh28f016s flash
 atmel 29c010 flash
+atmel 29c020 flash
 amd 29f010 flash
 amd 29f040 flash
 amd 29f080 flash
@@ -10387,6 +10779,7 @@ macronix 29f008tc flash
 macronix 29f1610mc flash
 macronix 29l001mc flash
 macronix 29lv160tmc flash
+st m29w640gb flash
 texas instruments 29f040 flash
 panasonic mn63f805mnp flash
 sanyo le26fv10n1ts flash
@@ -10431,7 +10824,6 @@ brunword elite mk4
 dobbertin hd20
 draysoft doubler
 hard micro transtape
-the music machine
 aleste magic sound board
 amstrad cpc expansion port
 nec v20
@@ -10482,11 +10874,11 @@ toshiba tc8521 rtc
 sharp lh5045 rtc
 motorola mc68ec030
 motorola mc68030
+pc card slot
 cbm akiko
 zorro slot
 86-pin expansion slot
 zorro-ii bus
-pc card slot
 cr-511-b cd-rom drive
 6525 tpi
 mos 6526 cia
@@ -10498,7 +10890,8 @@ mos 8364 "paula"
 amiga "trackdisk" fdc
 sony ldp-1450
 altos acs8600 intelligent serial concentrator
-harddisk
+hard disk
+disk controller board for altos 586
 altos ii keyboard
 smc crt9007 vpac
 alpha denshi 59mc07 sound board
@@ -10589,9 +10982,6 @@ netlist stream input
 netlist logic output
 netlist analog output
 netlist stream output
-intel 8080
-intel 8080a
-intel 8085a
 alesis dm3ag
 hitachi hd44780 lcd controller
 hitachi hd44780u lcd controller
@@ -10640,7 +11030,6 @@ nec upd7807
 nec upd7801
 nec upd78c05
 nec upd78c06
-intel 8279 kdc
 agat-7 32k language card
 agat-7 32k ram card
 agat 840k floppy card
@@ -10654,6 +11043,10 @@ rockwell r65c02
 agat-9 video
 agat keyboard
 agat-7 video
+intel 8080
+intel 8080a
+intel 8085a
+intel 8279 kdc
 mc68230 pi/t
 scn2681 duart
 mc68681 duart
@@ -10667,7 +11060,6 @@ epson rtc-62423 rtc
 epson rtc-72421 rtc
 epson rtc-72423 rtc
 hitachi hd63484 acrtc
-motorola mc68000
 ay-3-8910a psg
 ay-3-8912a psg
 ay-3-8913 psg
@@ -10696,9 +11088,9 @@ intel 8042
 intel 8742
 intel 8042ah
 intel 8742ah
-mb8884
+fujitsu mb8884
 nec upd7751
-m58715
+mitsubishi m58715
 intel 8275 crtc
 intel 8276 crtc
 z80 pio
@@ -10997,8 +11389,11 @@ western digital wd1770 fdc
 western digital wd1772 fdc
 western digital wd1773 fdc
 floppy drive connector abstraction
-3" single-sided floppy drive
-3" double-sided floppy drive
+3" single-sided single density floppy drive
+3" double-sided single density floppy drive
+3" single-sided double density floppy drive
+3" double-sided double density floppy drive
+3" double-sided quad density floppy drive
 3.5" single-sided double density floppy drive
 3.5" double density floppy drive
 3.5" high density floppy drive
@@ -11083,17 +11478,17 @@ ohci an2131qc hle
 ohci an2131sc hle
 ide baseboard
 series 3a a-law codec
+isa8_cga_tetriskr
 tandy 1000 motherboard
 tandy 1000 keyboard
 isa16 prize zone custom jamma i/f
-isa8_cga_filetto
-isa8_cga_tetriskr
 smbus logger
 smbus rom
 asus as99127f
 asus as99127f temperature sensor 2
 asus as99127f temperature sensor 3
 ite it8703f-a superio
+isa8_cga_filetto
 euro pc fdc hookup
 isa16 auscom system 1 custom jamma i/f
 asst128_motherboard
@@ -11110,9 +11505,9 @@ isa16 oksan virtual lpc
 vocalizer 1000 uart
 mtu130 rom slot
 ct-65550 svga
-astro cpu code
 isa8 cga - 4enlinea
 milton led filter
+mn89304 vga
 stingnet atapi cd-rom
 jvs host
 firebeat spectrum analyzer
@@ -11127,12 +11522,15 @@ pdp-1 tape reader
 pdp-1 tape puncher
 pdp-1 typewriter
 pdp-1 cylinder
+dmagic f018 gate array
 galaxy games bios cartridge
 galaxy games slot
 nec d65010g031
 goldstar gm82c765b fdc
 hdd cojag
+astro cpu code
 iphone 2g spi controller
 iphone 2g timers
+altos586 mmu
 apricot xen daisy chain abstraction
 f1 daisy chain abstraction

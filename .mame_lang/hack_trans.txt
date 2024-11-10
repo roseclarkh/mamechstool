@@ -180,6 +180,14 @@ bootleg of vulgus
 盗版自 决战异星球
 bootleg of wall crash
 盗版自 打砖块
+xiyou shi e chuan qunmoluanwu 
+西游释厄传 - 群魔乱舞
+xiyou shi e zhuan qunmoluanwu 
+西游释厄传 - 群魔乱舞
+knights of valour plus
+三国战纪 - 正宗加强版
+jingle bell
+铃儿响叮当
 ===================================================
 ===================================================
 bootleg on ambush hardware
@@ -218,10 +226,16 @@ bootleg on super cobra hardware
 盗版于 超级眼镜蛇 硬件
 bootleg on world cup '90 hardware
 盗版于 世界杯足球 '90 硬件
+gambling
+赌博机
+arcade machine
+营业用街机
 asteroids
 爆破彗星
 missile command
 导弹指令
+ghouls'n ghosts
+大魔界村
 canyon and vertical breakout
 峡谷垂直打砖王
 star wars hardware
@@ -284,8 +298,34 @@ the last blade
 月华剑士
 world wars
 世界大战
+tul lin gu lim chat ki '98 
+大家来找茬 '98
+new tul lin gu lim chat ki '98 
+新大家来找茬 '98
+daraku tenshi - the fallen angels
+堕落天使
+huohu chuanshuo
+火狐传说
+vertical
+纵版
+horizontal
+横版
+nfl blitz 2000 gold edition
+美国职业橄榄球闪电战 2000 黄金版
+strikers 1999
+打击者 1999
+formosa
+福尔摩沙
+draw poker
+对决扑克
 ===================================================
 ===================================================
+international
+国际版
+russia
+俄罗斯版
+black ver
+黑标版
 8-way joystick
 8 方向摇杆
 no continues
@@ -386,6 +426,14 @@ rev
 修订版
 early rev
 早期修订版
+early revision
+早期修订版
+early revision
+早期修订版
+latest version
+最新版
+second revision
+二次修订版
 revision
 修订版
 usa
@@ -394,6 +442,8 @@ us
 美版
 uk
 英版
+australia
+澳洲版
 alternate music
 替换音乐
 alternate
@@ -406,34 +456,20 @@ clone of
 克隆自
 screen test
 屏幕测试
-2 players
-2 人游戏
-3 players
-3 人游戏
-4 players
-4 人游戏
-5 players
-5 人游戏
-6 players
-6 人游戏
-7 players
-7 人游戏
-8 players
-8 人游戏
-2 player
-2 人游戏
-3 player
-3 人游戏
-4 player
-4 人游戏
-5 player
-5 人游戏
-6 player
-6 人游戏
-7 player
-7 人游戏
-8 player
-8 人游戏
+player
+人游戏
+players
+人游戏
+players ver
+打版本
+2 player ver
+双打版
+2 players ver
+双打版
+3 players ver
+三打版
+4 players ver
+四打版
 3 lives
 3 条命
 5 lives
@@ -454,6 +490,8 @@ cockpit
 座舱机台
 joystick version
 摇杆版
+handheld
+掌机
 hack
 修改版
 cocktail
@@ -478,6 +516,8 @@ revised hardware
 已修改硬件
 series
 系列
+with saturn adverts
+带土星广告
 with colour
 带彩色
 with enhanced vdueb
@@ -500,6 +540,8 @@ switchable to
 可切换至
 switchable
 可切换
+switchable orientation
+可切换方向
 cash
 现金
 token
@@ -592,6 +634,10 @@ censored
 已审查
 canada
 加拿大版
+oceania
+大洋洲版
+tiny arcade
+小型街机
 usa and canada
 美版 与 加拿大版
 location test
@@ -678,6 +724,8 @@ taiwanese
 台湾版
 ver\)
 版本)
+master ver\)
+主版本)
 label
 标签
 export
@@ -698,6 +746,8 @@ program and GFX
 程序与图像
 new edition
 新版
+edition
+版
 protocol
 协议
 2 PCB ver.
@@ -722,3 +772,15 @@ analog controls
 模拟控制
 international ver.
 国际版
+trust license
+信托授权版
+universal
+环球
+universal video
+环球影视
+alt revision
+替换修订版
+questions
+问答
+sex questions
+两性问答

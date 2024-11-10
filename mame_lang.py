@@ -181,7 +181,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
 # 调用示例
-filename = 'gamelist.265.xml'
+filename = 'gamelist.271.xml'
 mame_info = parse_gamelist(filename)
 print(f'MAME版本号：{mame_info.version}')
 print(f'游戏数量：{len(mame_info.games)}')

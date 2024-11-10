@@ -3599,7 +3599,6 @@ arcade bootleg of zx spectrum 'blackbeard'
 arcade bootleg of zx spectrum 'inspector gadget and the circus of fear'
 arcade data
 arcade game
-arcade machine
 arcade multi-game bootleg of zx spectrum 'cookie'
 arcade poker
 arcade standard
@@ -12892,7 +12891,6 @@ with nudity
 with opcode swapping
 with pmd-32
 with ranking
-with saturn adverts
 with seq royal flush
 with speed racer and snood
 with spi handling

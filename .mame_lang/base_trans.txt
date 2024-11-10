@@ -3419,7 +3419,7 @@ LEXIBOOK 简易连线型街机-终极蜘蛛侠
 compact cyber arcade - paw patrol
 LEXIBOOK 简易连线型街机-汪汪队立大功
 compact cyber arcade - star wars rebels
-LEXIBOOK 简易连线型街机-星际大战 - 反抗军起义
+LEXIBOOK 简易连线型街机 - 星球大战 反抗军起义
 compact cyber arcade tv - 120 in 1
 简易连线型街机电视-120合1
 competition golf final round
@@ -4094,6 +4094,18 @@ daytona usa 2 power edition
 梦游美国 2 动力版
 daytona usa special edition
 梦游美国 特别版
+daytona usa 2: power edition
+梦游美国 2 - 动力版
+daytona usa 2: battle on the edge
+梦游美国 2 - 边缘之战
+daytona classic
+戴托纳经典版
+daytona
+戴托纳赛车
+daytona gold
+戴托纳黄金版
+daytona millennium
+戴托纳千禧版
 daytripper
 日行者
 dazzler
@@ -4797,9 +4809,9 @@ drakton
 dramatic adventure quiz keith & lucy
 问答 太空冒险
 draw 80 poker
-扑克牌 - 八十分
+80 扑克对决
 draw 80 poker - minn
-扑克牌 - 八十分 Minn
+80 扑克对决 - 明尼苏达州
 draw 88 poker
 抽奖88扑克
 draw poker
@@ -5093,7 +5105,7 @@ electromechanical meters
 electronic 2-player football
 电子双打足球
 electronic arcade mania
-狂躁电子商场 大型电玩)
+狂热电玩
 electronic baseball
 电子篮球
 electronic baseball 2
@@ -5841,15 +5853,15 @@ fruit bonus 2006 special edition
 fruit bonus 2010
 水果奖分 2010
 fruit bonus 2nd edition
-水果奖分 2nd Edition
+水果奖分 第二版
 fruit bonus 2nd generation
-水果奖分 2nd 世纪
+水果奖分 第二世代
 fruit bonus 3g
 水果奖分 3g
 fruit bonus deluxe
-水果奖分豪华版
+水果奖分 豪华版
 fruit carnival nudge
-水果狂欢 Nudge
+水果嘉年华
 fruit cocktail
 水果鸡尾酒
 fruit cocktail 2
@@ -5929,7 +5941,7 @@ funny strip
 further adventures of beau peep
 美丽阚深入历险记
 futari mahjong ron ii
-二人麻雀 自摸II
+二人麻将 自摸II
 future flash
 未来之光
 future queen
@@ -7915,7 +7927,7 @@ itazura tenshi
 itc-4 intelligent temperature controller
 ITC-4 智慧温控器
 iteagle peripheral controller
-ITEagle 週边控制器
+ITEagle 周边控制器
 itt 1700 keyboard
 ITT 1700 键盘
 ivory tusk
@@ -7985,7 +7997,7 @@ jan jan paradise 2
 jan oh
 喔 - 一月
 jang taku
-全自动立体麻雀
+全自动立体麻将
 jangou
 雀豪
 jangou blitter custom chip
@@ -8119,7 +8131,7 @@ jong yu ki
 jongkyo
 麻将放课后
 jongputer
-T.T 麻雀 日版
+T.T 麻将 日版
 jor-eop jeungmyeongseo
 卒业证书
 joryuu syougi kyoushitsu
@@ -8391,7 +8403,7 @@ kidnap
 kiki kaikai
 奇奇怪界
 kiki-ippatsu mayumi-chan
-麻雀危机 一发真由美
+麻将危机 一发真由美
 killer comet
 杀手彗星
 killer instinct
@@ -8813,6 +8825,8 @@ last bank
 last battle
 北斗神拳 - 新世纪末救世主传说
 last bronx
+东京番外地
+last bronx: tokyo bangaichi
 东京番外地
 last duel
 行星战争 2012
@@ -9539,7 +9553,7 @@ mahjong gal no kaika
 mahjong gal no kokuhaku
 女孩的告白
 mahjong gal-pri - world gal-con grandprix
-高利麻雀 - 世界第一决定战
+高利麻将 - 世界第一决定战
 mahjong gekisha
 麻将激写
 mahjong gorgeous night
@@ -9567,7 +9581,7 @@ mahjong hyper reaction
 mahjong hyper reaction 2
 麻将双娇 2
 mahjong if...?
-麻雀假如...?
+麻将假如...?
 mahjong ikaga desu ka
 麻将 2 泊 3 日慰安旅行
 mahjong janjan baribari
@@ -9601,7 +9615,7 @@ mahjong koi no magic potion
 mahjong koi uranai
 麻将恋爱占卜
 mahjong kojinkyouju
-个人教授
+麻将 私人教授
 mahjong kyo retsuden
 麻将狂列传 - 西日本编
 mahjong kyou jidai
@@ -9617,7 +9631,7 @@ mahjong magic lamp
 mahjong mania - kairakukan e youkoso
 狂热麻将 - 迎接快感
 mahjong mogitate
-麻雀也高潮
+麻将也高潮
 mahjong momotarou
 麻将 - 桃太郎
 mahjong nanpa story
@@ -9646,6 +9660,8 @@ mahjong quest
 圣雀士龙子
 mahjong raijinhai dx
 麻将雷神牌 DX
+mahjong raijinhai
+麻将雷神牌
 mahjong reach
 麻将立直
 mahjong reach ippatsu
@@ -10089,7 +10105,7 @@ megatouch iii
 megatouch iii tournament edition
 触屏游戏 III 联赛版
 megatouch iii turnier edition
-触控游戏III 锦标赛
+触控游戏 III 锦标赛
 megatouch iv
 触屏游戏 IV
 megatouch iv tournament edition
@@ -10635,7 +10651,7 @@ momoko 120%
 monaco gp
 摩纳哥GP赛车
 monday night football
-週一足球夜
+周一足球夜
 money in the bank
 合约保障金
 money machine
@@ -10681,7 +10697,7 @@ monopoly
 monopoly 5
 大富翁 5
 monopoly 60th anniversary edition
-专卖60週年纪念版
+专卖60周年纪念版
 monopoly boom or bust
 大富翁 - 成王败寇
 monopoly casino
@@ -10989,17 +11005,17 @@ mushihime-sama futari ver 1.0
 mushihime-sama futari ver 1.5
 虫姬 - 二人 1.5 版
 mushiking the king of beetle
-甲虫王者
+甲虫之王
 mushiking the king of beetles - mushiking ii / iii / iii+
-甲虫王者 II / III / III+
+甲虫之王 II / III / III+
 mushiking the king of beetles - mushiking iv / v / vi
-甲虫王者 IV / V / VI+
+甲虫之王 IV / V / VI+
 mushiking the king of beetles 2004 second
-甲虫王者2004 二版
+甲虫之王 2004 再版
 mushiking the king of beetles 2005 first
-甲虫王者2005 首版
+甲虫之王 2005 初版
 mushiking the king of beetles 2006 second
-甲虫王者2006二版
+甲虫之王 2006 再版
 mushroom magic
 魔法蘑菇
 music ball
@@ -11237,21 +11253,23 @@ naughty mouse
 navarone
 战舰
 nba hangtime
-NBA 篮球 1996
+NBA 空中大灌篮
 nba jam
-NBA 篮球 1993
+NBA 灌篮高手
 nba jam extreme
-美国职业篮球联赛
+NBA 灌篮高手 极限版
 nba jam t.e. nani edition
-NBA篮球1993 纳尼
+NBA 灌篮高手 锦标赛版 改版
 nba jam te
-NBA 篮球 1993
+NBA 灌篮高手 锦标赛版
+nba jam tournament edition
+NBA 灌篮高手 锦标赛版
 nba maximum hangtime
-NBA 篮球 1996
+NBA 超级大灌篮
 nba play by play
 NBA 玩一玩
 nba showtime nba on nbc
-NBC体育台 - NBA表演时间
+NBC 体育台 - NBA 表演时间
 ncaa basketball
 美国大学篮球联赛
 nebulas ray
@@ -11261,11 +11279,11 @@ nebulous bee
 neck-n-neck
 彩票机 - 赛马
 need for speed - 4 cab link
-极速快感 - 四驾驶连接
+极品飞车 - 四人联机版
 need for speed gt
-极速快感 GT
+极品飞车 GT
 need for speed: underground install
-极速快感 - 飙风再起的安装
+极品飞车 - 地下狂飙 安装版
 nekketsu grand-prix gal
 热血女孩
 nekketsu kouha kunio-kun
@@ -11273,7 +11291,7 @@ nekketsu kouha kunio-kun
 nekketsu koukou dodgeball bu
 热血高校躲避球
 nekketsu mahjong sengen! after 5
-热血麻将宣言 ! AFTER 5
+热血麻将宣言！ 五点之后
 nemesis
 宇宙巡航机
 nemo
@@ -12123,7 +12141,7 @@ nes cart txc cart commandos pcb
 nes cart txc du ma racing pcb
 红白机卡带 TXC Du Ma Racing 主板
 nes cart txc mahjong block pcb
-红白机卡带 TXC 麻雀砖块 主板
+红白机卡带 TXC 麻将砖块 主板
 nes cart txc thunder warrior pcb
 红白机卡带 TXC Thunder Warrior 主板
 nes cart txrom
@@ -12329,7 +12347,7 @@ nfl blitz
 nfl blitz '99
 美国职业橄榄球闪电战 '99
 nfl blitz 2000 gold edition
-美国职业橄榄球闪电战 2000
+美国职业橄榄球闪电战 2000 黄金版
 nfl classic football
 NFL经典足球
 nfl classic football decrypter
@@ -12375,7 +12393,7 @@ nightmare before christmas
 nightmare in the dark
 黑暗守墓者 / 暗黑恶梦
 nihon isshuu - boku wa plarail untenshi
-日本一週-陪乐儿运转士
+日本一周-陪乐儿运转士
 nine ball
 九号球
 ninja
@@ -12696,11 +12714,21 @@ oriental beauty
 东方美人 连连乐
 oriental legend / xiyou shi e chuan
 西游释厄传
+oriental legend / xiyou shi e zhuan
+西游释厄传
 oriental legend 2
+西游释厄传 2
+xiyou shi e zhuan 2
 西游释厄传 2
 oriental legend special / xiyou shi e chuan super
 西游释厄传 特别版
+oriental legend super / xiyou shi e zhuan super
+西游释厄传 特别版
+oriental legend special / xiyou shi e zhuan super
+西游释厄传 特别版
 oriental legend super / xiyou shi e chuan super
+西游释厄传 特别版
+xiyou shi e zhuan super
 西游释厄传 特别版
 orius
 新锐惑星
@@ -13245,7 +13273,7 @@ pin-bot
 pinball
 弹球
 pinball 2000: star wars episode 1
-弹珠台2000 - 星际大战首部曲
+弹珠台2000 - 星球大战首部曲
 pinball action
 弹珠台
 pinball champ
@@ -14635,7 +14663,7 @@ regulus
 relief pitcher
 替补投手
 renai mahjong idol gakuen
-恋爱麻雀偶像学园
+恋爱麻将偶像学园
 renegade
 热血硬派
 renju kizoku
@@ -15120,6 +15148,8 @@ sangokushi ii
 三国志 II
 sanguo qunying chuan zhengzong plus
 三国群英传 - 正宗加强版
+sanguo qunying zhuan zhengzong plus
+三国群英传 - 正宗加强版
 sanguo zhan ji 2 gaishi yingxiong
 三国战纪 2 - 盖世英雄
 sankokushi
@@ -15483,7 +15513,7 @@ sega network taisen mahjong mj 3
 sega network taisen mahjong mj 3 evolution
 世嘉网络对战麻将 3 - 进化
 sega network taisen mahjong mj 3 evolution firmware update
-世嘉网络对战麻雀3 进化 韧体更新
+世嘉网络对战麻将3 进化 韧体更新
 sega ninja
 世嘉忍者
 sega pcm
@@ -15649,7 +15679,7 @@ sengoku blade: sengoku ace episode ii
 sengoku mahjong
 战国麻将
 sengoku mahjong kurenai otome-tai
-麻雀 战国麻雀
+战国麻将 - 乙女队
 sengoku no jieitai
 战国自卫队
 senjou no ookami
@@ -15821,7 +15851,7 @@ shisensho - joshiryo-hen
 shisensho ii
 四川省 II
 shizhan ding huang maque
-实战丁皇麻雀
+实战丁皇麻将
 shizhan majiang wang
 实战麻将王 加强版
 shock troopers
@@ -16380,6 +16410,8 @@ soul calibur ii
 灵魂力量 II
 soul calibur iii
 灵魂力量 III
+soul calibur iii: arcade edition
+灵魂力量 III - 街机版
 soul edge
 魂之利刃
 soul edge ver. ii
@@ -16772,6 +16804,8 @@ sports trivia professional edition
 运动的日常专业版
 sportstation: nba showtime nba on nbc
 NBC体育台 - NBA表演时间
+sportstation: nba showtime nba on nbc gold edition
+NBC体育台 - NBA表演时间 黄金版
 sporttime bowling
 体育时间 - 保龄球
 sporttime table hockey
@@ -16881,13 +16915,13 @@ star sweep
 star trax
 星之特拉克斯
 star trek
-星舰迷航记 - 企业号
+星际迷航
 star trek 25th anniversary
-星际迷航记25週年纪念版 弹珠台
+星际迷航 25 周年纪念
 star trek: the next generation
-星舰迷航记 - 下一世代
+星际迷航 - 下一代
 star trek: voyager
-星际旅行 - 航海家号
+星际迷航 - 航海家号
 star trigon
 三角星
 star trigon decrypter
@@ -16897,29 +16931,29 @@ star trip
 star warrior
 星际战士
 star wars
-银河战争 Star Wars
-star wars - electronic battle command
-星际大战 - 电子战命令
-star wars - original trilogy
-星际大战正传三部曲
-star wars - revenge of the sith
-星际大战三部曲 - 西斯大帝的复仇
-star wars - the clone wars
-星际大战-複制人战争
-star wars arcade
-星球大战街机版
-star wars blaster strike
-星际大战爆能枪冲击
-star wars clone trooper
-星际大战 - 複制人士兵
-star wars saga edition - lightsaber battle game
-星际大战 - 光剑大战 世嘉版本
-star wars trilogy
 星球大战
+star wars - electronic battle command
+星球大战 - 电子作战指令
+star wars - original trilogy
+星球大战 - 正传三部曲
+star wars - revenge of the sith
+星球大战 - 西斯的复仇
+star wars - the clone wars
+星球大战 - 克隆人战争
+star wars arcade
+星球大战 街机版
+star wars blaster strike
+星球大战 爆能枪出击
+star wars clone trooper
+星球大战 - 克隆人士兵
+star wars saga edition - lightsaber battle game
+星球大战 世嘉版 - 光剑大战
+star wars trilogy
+星球大战三部曲
 star wars trilogy arcade
 星球大战三部曲 街机版
 star wars: racer arcade
-星际大战 - 大型电玩赛车
+星球大战 - 赛车 街机版
 star's phoenix
 凤凰之星
 starblade
@@ -18447,7 +18481,7 @@ the maze of the kings
 the monster show
 怪物秀
 the nanpa
-麻雀猎艳
+麻将猎艳
 the new crystal maze featuring ocean zone
 新迷宫传奇 大洋地带
 the newzealand story
@@ -18789,7 +18823,9 @@ tomica carnavi drive
 tommy lasorda baseball
 棒球教父
 ton puu mahjong
-东风麻雀
+东风麻将
+ton puu mahjong version 2.0 rx
+东风麻将 2.0 版 RX
 tondemo crisis
 危机重重
 tonton
@@ -18855,7 +18891,7 @@ tora e no michi
 tora tora
 偷袭珍珠港
 torarechattano - av kantoku hen
-麻雀 被拍到了吗?
+麻将 被拍到了吗?
 torch
 火炬 弹珠台
 torch ch240
@@ -19243,7 +19279,7 @@ tv touch games: spider-man in villain round-up
 tv touch games: spongebob squarepants jellyfish dodge
 电视触控游戏 - 海绵宝宝 水母道奇
 tv touch games: star wars original trilogy
-电视触控游戏 - 星际大战 原创三部曲
+电视触控游戏 - 星球大战 正传三部曲
 tv virtual fighter / free fight kung fu
 TV VR战士 / 自由功夫格斗
 tv virtual tennis
@@ -19483,7 +19519,7 @@ us vs. them
 usagi
 兔 - 野性的斗牌
 usagi - yamashiro mahjong hen
-麻雀工房
+麻将工房
 uvi compu-game
 UVI电子游戏
 v goal soccer
@@ -20821,6 +20857,116 @@ manguan daheng
 chaoji damanguan ii
 超级大满贯 II
 maque wangchao / chaoji damanguan 2 - jiaqiang ban
-麻雀王朝 / 超级大满贯 2 - 加强版
+麻将王朝 / 超级大满贯 2 - 加强版
 mahou no lamp
 魔法神灯
+buriki one: world grapple tournament '99 in tokyo
+武力 - 东京世界格斗锦标赛 '99
+snk beast busters sprites
+SNK 怪兽敢死队 精灵
+beast busters: second nightmare
+怪兽敢死队 - 二度梦魇
+fatal fury: wild ambition / garou densetsu: wild ambition
+饿狼传说 - 狂野之心
+roads edge / round trip rv
+公路边境 / 房车环游
+samurai shodown 64 / samurai spirits / paewang jeonseol 64
+侍魂 64 / 霸王传说 64
+paewang jeonseol / legend of a warrior
+霸王传说 / 武士传说
+dribble away basketball
+运球过人
+3 in 1: football, basketball, soccer
+3 合 1 - 橄榄球、篮球、足球
+teenage mutant ninja turtles ii: splinter speaks
+忍者神龟 2 - 斯普林特教导
+teenage mutant ninja turtles 3: shredder's last stand
+忍者神龟 3 - 施莱德的最后一战
+teenage mutant ninja turtles: basketball
+忍者神龟 - 大灌篮
+teenage mutant ninja turtles - turtle fighter
+忍者神龟 - 神龟斗士
+teenage mutant ninja turtles - mutant warriors
+忍者神龟 - 变种战士
+shizhan sanguo ji jiaqiang ban
+实战三国记加强版
+xiao ao jiang hu
+笑傲江湖
+mahjong cafe doll great
+麻将咖啡娃娃完美版
+fengyun hui
+风云会
+mahjong gekisha part ii
+麻将激写 II
+mahjong hourouki part 1 - seishun hen
+麻将放浪记 1 - 青春篇
+jinxiu zhonghua
+锦绣中华
+pili shen deng
+霹雳神灯
+sega network taisen mahjong mj 3 firmware update
+世嘉网络对战麻将 3 固件升级
+mahjong the mysterious orient returns
+麻将 - 东洋之神秘 归来
+mahjong reach part ii
+麻将立直 II
+bu bu car
+布布车
+animal house
+动物之家
+chuugokuryuu
+中国龙
+man guan caishen 3
+满贯财神 3
+man guan zhi zun
+满贯至尊
+jingling jiazu genie 2000
+精灵家族 精灵 2000
+jungle king 2002
+森林之王 2002
+puckman pockimon genie 2000
+吃豆人和皮卡丘 精灵 2000
+olympic 5
+奥林匹克 5
+ocean paradise
+海洋天堂
+lucky coin
+幸运钱币
+lucky cross
+幸运十字
+crazy bugs
+疯狂虫子
+extra draw
+多重听牌
+wild fruit
+狂野水果
+triple fever
+三重狂热
+long hu feng yun gao qing ban
+龙虎风云高清版
+long hu zheng ba gao qing ban
+龙虎争霸高清版
+unknown 'vip 2000' game
+未知 '贵宾 2000' 游戏
+unknown game
+未知游戏
+que huang zheng ba
+雀皇争霸
+medal get hammer
+大奖锤
+top gun: second mission
+壮志凌云: 二次任务
+kung fu fighters
+功夫斗士
+kung-fu senjyo
+功夫仙女
+star trek: 25th anniversary
+星际迷航: 25 周年纪念
+blue moon ii
+蓝月亮 II
+mushiking the king of beetles 2006 first
+甲虫之王 2006 初版
+heroes
+英雄 - 战至末路
+touch and go
+一触即发
